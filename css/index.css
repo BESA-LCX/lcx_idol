@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+#bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    height: 50px;
+    opacity: 0.8;
+    background-image:linear-gradient(to right,black ,white);
+    z-index: 100;
+}
+.n-l,.n-r{
+    width: 30%;
+    height: 100%;
+}
+.n-c{
+    width: 40%;
+    height: 100%;
+}
+.n-l i{
+ width: 100%;
+ height: 100%;
+  line-height: 50px;
+  text-align: center;
+}
+.n-l>button{
+    width: 100%;
+    height: 100%;
+    background: none;
+    border-style: none;
+}
+.n-r{
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+.banner{
+    width: 100%;
+    height: 160px;
+}
+.banner>img{
+    width: 100%;
+    height: 100%;
+}
+.bar-second{
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 30%;
+    height: 100px;
+    background-color: black;
+    opacity: 0.8;
+    display: none;
+}
+/*测试盒子*/
+.text-box{
+    width: 100%;
+    height: 500px;
+}
+.bar-second-item:nth-child(1){
+    margin-top: 3px;
+}
+.bar-second-item{
+    width: 100%;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+.bar-second-item>a{
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    
+}
+.bar-second-item>a:hover{
+    background-color: rgb(6, 102, 109);
+    border-radius: 5px;
+    color: white;
+}
+.nav-link{
+    font-size: 14px;
+}
+.r{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8px;
+}
+.box{
+    position: relative;
+    width: 40%;
+    height: 200px;
+    margin-right: 10px;
+    background-color: beige;
+    box-shadow: rgb(116, 116, 114) 5px 5px 5px;
+    border-left:1px solid rgb(216, 219, 219);
+}
+.box-content{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+.box-content>img{
+    width: 100%;
+    height: 100%;
+}
+.sign{
+    position: absolute;
+    width: 62%;
+    height: 15%;
+    top: 5%;
+    left: -5%;
+    opacity: 0.6;
+}
+.sign-t{
+    width: 100%;
+    height: 70%;
+    background-color: rgb(230, 27, 27);
+    color: white;
+    text-align: center;
+    padding: 2px;
+    font-size: 12px;
+}
+.sign-b/*三角形*/{
+    width: 0;
+    height: 0;
+    border-top:10px solid rgb(230, 27, 27);
+    border-left:10px solid transparent;
+}
+.modol{
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background-color: rgb(250, 243, 243);
+    border-radius: 10px;
+    overflow-y: scroll;
+  /* animation: first 3s infinite;
+    -webkit-animation: first 3s infinite;*/
+    transition: all ease 0.5s; 
+}/*
+@keyframes first{
+    0%{border: 3px solid rgb(51, 243, 109);}
+    50%{border:3px solid rgb(5, 44, 70);}
+    100%{border: 3px solid rgb(243, 51, 51);}
+}*/
+.box:hover{
+    cursor: pointer;
+}
+.modol p{
+    font-size: 14px;
+}
+.modol p:hover{
+    cursor: pointer;
+}
+.header-img{
+    position: relative;
+    width: 100%;
+    height: 30%;
+}
+.header-img-squre{
+    position: absolute;
+    right: 0;
+    bottom: 3%;
+    width: 16%;
+    height: 25%;
+    border-radius: 50%;
+}
+.header-img-squre>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.header-img>img{
+    width: 100%;
+    height: 100%;
+}
+#l-c p,#r-c p{
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+}
+#l-c p:nth-child(1){
+    border-radius: 0px 5px 5px 0px;
+}
+.photo{
+    width: 40%;
+    height: 200px;
+    margin-left: 5px;
+}
+.photo>img{
+    width: 100%;
+    height: 100%;
+}
+#close{
+    margin: 0;
+    padding: 0;
+}
+.scroll-tishi{
+    position: absolute;
+    bottom: 30%;
+    right: 0;
+    width: 30px;
+    height: 100px;
+    background-color: black;
+    animation:bt 2.5s infinite;
+    -webkit-animation: bt 2.5s infinite;
+    padding-top: 3px;
+    opacity: 0.7;
+    border-radius: 10px 0px 0px 10px;
+}
+@keyframes bt{
+    0%{background-color: black;}
+    100%{background-color: cadetblue;}
+}
+.scroll-tishi a{
+    color: white;
+}
+.scroll-tishi a:hover{
+    color: turquoise;
+}
+.s-t-up,.s-t-text,.s-t-down{
+    color: white;
+    text-align: center;
+}
+.back-top{
+    position: fixed;
+    bottom: 10%;
+    right: 0;
+    width: 30px;
+    height: 60px;
+    background-color: black;
+    opacity: 0.7;
+    color: white;
+    border-radius: 5px 0px 0px 5px;
+    z-index: -1;
+}
+.back-top>a{
+    display: block;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+@media screen and (max-width:760px) and (min-width:375px){
+    .banner{
+        height: 160px;
+    }
+    .box{
+        height: 200px;
+    }
+    .photo{
+        height: 200px;
+    }
+    .header-img{
+        height: 30%;
+    }
+}
+@media screen and (max-width:374px) and (min-width:200px) {
+    .banner{
+        height: 150px;
+    }
+    .box{
+        height: 190px;
+    }
+    .photo{
+        height: 190px;
+    }
+    .header-img{
+        height: 29%;
+    }
+
+}
