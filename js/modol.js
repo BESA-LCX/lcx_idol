@@ -29,8 +29,8 @@ $("#s2,#s40").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46三期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 喜欢小动物 充满色气");
-    $(".photo:nth-child(1)>img").attr("src","https://img1.doubanio.com/view/photo/l/public/p2627606527.webp");
-    $(".photo:nth-child(2)>img").attr("src","https://img1.doubanio.com/view/photo/l/public/p2557926539.webp");
+    $(".photo:nth-child(1)>img").attr("src","img/idol/yoda1.png");
+    $(".photo:nth-child(2)>img").attr("src","img/idol/yoda2.png");
 });
 $("#s3").click(function(){
     $(".modol").css({display:'block',height:'86%'});
@@ -290,7 +290,7 @@ $("#s16,#s41").click(function(){
 $("#s17,#s42").click(function(){
     $(".modol").css({display:'block',height:'86%'});
     $(".header-img>img").attr("src","img/idol/河田陽菜-l.jpg");
-    $(".header-img-squre>img").attr("src","https://i0.hdslb.com/bfs/article/1a921a3b283b0f89518cf39383d1ecdc8a4c3ae9.jpg@942w_1415h_progressive.webp");
+    $(".header-img-squre>img").attr("src","img/idol/hina.png");
     $("#l-c p:nth-child(1)").text("河田陽菜");
     $("#l-c p:nth-child(2)").text("别名：かわた ひな/KAWADA HINA/hina、小阳菜");
     $("#l-c p:nth-child(3)").text("出生日期：2001年7月23日");
@@ -318,8 +318,8 @@ $("#s18").click(function(){
     $("#r-c p:nth-child(3)").text("所属：日向坂46成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Labels Inc");
     $("#r-c p:nth-child(5)").text("特征：清纯 美丽 可爱");
-    $(".photo:nth-child(1)>img").attr("src","https://img1.doubanio.com/view/photo/l/public/p2647107289.webp");
-    $(".photo:nth-child(2)>img").attr("src","https://img9.doubanio.com/view/photo/l/public/p2630571674.webp");
+    $(".photo:nth-child(1)>img").attr("src","img/idol/kyokyo1.png");
+    $(".photo:nth-child(2)>img").attr("src","img/idol/kyokyo2.png");
 });
 $("#s19").click(function(){
     $(".modol").css({display:'block',height:'86%'});
@@ -403,8 +403,8 @@ $("#s23,#s49").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46四期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 活泼开朗");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201705%2F07%2F20170507080009_KUzhv.thumb.700_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637388260&t=c091e385e35a86e0d15cb02752bb3566");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.17getfun.com%2F5dc7ff30ccf741bc8c5966d4b0aa269320160311190847.JPEG&refer=http%3A%2F%2Fimg.17getfun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637388287&t=f0de784c99a843bd1a6e68cb1f3d6efe");
+    $(".photo:nth-child(1)>img").attr("src","img/idol/guaqiao1.jpg");
+    $(".photo:nth-child(2)>img").attr("src","img/idol/guaqiao2.jpeg");
 });
 $("#s24").click(function(){
     $(".modol").css({display:'block',height:'86%'});
@@ -493,7 +493,7 @@ $("#s28,#s51").click(function(){
 });
 $("#s29").click(function(){
     $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://img9.doubanio.com/view/photo/l/public/p2258207934.webp");
+    $(".header-img>img").attr("src","img/idol/riho_banner.png");
     $(".header-img-squre>img").attr("src","img/idol/riho.png");
     $("#l-c p:nth-child(1)").text("吉岡里帆");
     $("#l-c p:nth-child(2)").text("别名：よしおか りほ/Riho Yoshioka");
@@ -510,7 +510,7 @@ $("#s29").click(function(){
 });
 $("#s30").click(function(){
     $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://img2.doubanio.com/view/photo/l/public/p1564129863.webp");
+    $(".header-img>img").attr("src","img/idol/lara_banner.png");
     $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/lara-2.png");
     $("#l-c p:nth-child(1)").text("梁心颐");
     $("#l-c p:nth-child(2)").text("别名：Lara Veronin/Lara");
@@ -561,8 +561,8 @@ $("#s32,#s45").click(function(){
 });
 $("#s33,#s43").click(function(){
     $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://img3.doubanio.com/view/photo/l/public/p2614536360.webp");
-    $(".header-img-squre>img").attr("src","https://img9.doubanio.com/view/photo/l/public/p2628568566.webp");
+    $(".header-img>img").attr("src","img/idol/黑木光_banner.png");
+    $(".header-img-squre>img").attr("src","img/idol/黑木光_header.png");
     $("#l-c p:nth-child(1)").text("黒木ひかり");
     $("#l-c p:nth-child(2)").text("别名：HIKARI KUROKI");
     $("#l-c p:nth-child(3)").text("出生日期：2000年6月25日");
@@ -573,8 +573,8 @@ $("#s33,#s43").click(function(){
     $("#r-c p:nth-child(3)").text("血　型：O型");
     $("#r-c p:nth-child(4)").text("经纪公司：01familia");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 胸大的超级美少女");
-    $(".photo:nth-child(1)>img").attr("src","https://img9.doubanio.com/view/photo/l/public/p2614536254.webp");
-    $(".photo:nth-child(2)>img").attr("src","https://img1.doubanio.com/view/photo/l/public/p2628568568.webp");
+    $(".photo:nth-child(1)>img").attr("src","img/idol/黑木光1.png");
+    $(".photo:nth-child(2)>img").attr("src","img/idol/黑木光2.png");
 });
 $("#s34").click(function(){
     $(".modol").css({display:'block',height:'86%'});
