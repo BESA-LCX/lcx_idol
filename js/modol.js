@@ -284,8 +284,8 @@ $("#s16,#s41").click(function(){
     $("#r-c p:nth-child(3)").text("所属：日向坂46成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：特技是在吹奏乐部担任的萨克斯 高贵气质 美丽可爱 性感");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fww2.sinaimg.cn%2Fmw690%2F006BCHllgy1gu8h6vjjcbj60u0170jui02.jpg&refer=http%3A%2F%2Fwww.sina.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637310809&t=362352711f5cf58c90e9903b2363acaa");
-    $(".photo:nth-child(2)>img").attr("src","https://wx3.sinaimg.cn/mw690/006BCHllgy1gu8h6uzzi6j60u017077002.jpg");
+    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fww2.sinaimg.cn%2Fmw690%2F006BCHllgy1gu8h6vjjcbj60u0170jui02.jpg&refer=http%3A%2F%2Fwww.sina.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637310809&t=362352711f5cf58c90e9903b2363ac");
+    $(".photo:nth-child(2)>img").attr("src","img/idol/miku2.jpg");
 });
 $("#s17,#s42").click(function(){
     $(".modol").css({display:'block',height:'86%'});
