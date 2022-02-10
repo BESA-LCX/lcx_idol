@@ -818,8 +818,8 @@ $("#s60").click(function(){
 });
 $("#s61").click(function(){
     $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/7.最上ゆら-2.png");
-    $(".header-img-squre>img").attr("src","img/avjoyu/7.最上ゆら-4.png");
+    $(".header-img>img").attr("src","img/avjoyu/7.最上优菜-2.PNG");
+    $(".header-img-squre>img").attr("src","img/avjoyu/7.最上优菜-4.PNG");
     $("#l-c p:nth-child(1)").text("最上ゆら");
     $("#l-c p:nth-child(2)").text("别名：もがみゆら(mogamiyura)/皆川ゆうな");
     $("#l-c p:nth-child(3)").text("出生日期：1994年3月6日");
@@ -833,8 +833,8 @@ $("#s61").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级温柔超级可爱超级美丽超级性感");
     $("#r-c p:nth-child(5)").text("描述：极具温柔气质，优雅，美乳、曲线诱人的美腿以及超清纯的长相。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/7.最上ゆら-3.png");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/7.最上ゆら-1.png");
+    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/7.最上优菜-1.PNG");
+    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/7.最上优菜-3.PNG");
 });
 $("#s62").click(function(){
     $(".modol").css({display:'block',height:'86%'});
