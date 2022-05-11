@@ -1,7 +1,7 @@
-$("#s1,#s39").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F1017%252Fe1114323j00r134fw001md000qo00f0p.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637246224&t=15600327a1e039ac06963b351f1cafef");
-    $(".header-img-squre>img").attr("src","img/idol/小栗有以.jpg");
+$("#s1,#s39").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F1017%252Fe1114323j00r134fw001md000qo00f0p.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637246224&t=15600327a1e039ac06963b351f1cafef");
+    $(".header-img-squre>img").attr("src", "img/idol/小栗有以.jpg");
     $("#l-c p:nth-child(1)").text("小栗有以");
     $("#l-c p:nth-child(2)").text("别名：おぐり ゆい/ゆいゆい（Yuiyui）");
     $("#l-c p:nth-child(3)").text("出生日期：2001年12月26日");
@@ -12,13 +12,13 @@ $("#s1,#s39").click(function(){
     $("#r-c p:nth-child(3)").text("所属：AKB48 Team8成员");
     $("#r-c p:nth-child(4)").text("经纪公司：株式会社AKS");
     $("#r-c p:nth-child(5)").text("特征：清纯 美丽 可爱 微笑时眼神显露温柔 被称为“两万年一遇的美少女”");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn23%2F721%2Fw960h1361%2F20180415%2F9d1e-fzcyxmv0874421.jpg&refer=http%3A%2F%2Fn.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637246146&t=9da449101cf7c2f9c2dd52d545906fda");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fe642988d4537dcca7a687f5dae24dd934bdfd3471303d-7iwBes_fw236&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637246144&t=0be80668a95f4daaa1337503deef3e63");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn23%2F721%2Fw960h1361%2F20180415%2F9d1e-fzcyxmv0874421.jpg&refer=http%3A%2F%2Fn.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637246146&t=9da449101cf7c2f9c2dd52d545906fda");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fe642988d4537dcca7a687f5dae24dd934bdfd3471303d-7iwBes_fw236&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637246144&t=0be80668a95f4daaa1337503deef3e63");
 });
-$("#s2,#s40").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2F64e609646e1404e71d50cda4038277095405c781.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637301011&t=8181346b1a7a6f5d9c32f8267d75fc8b");
-    $(".header-img-squre>img").attr("src","img/idol/与田祐希.jpg");
+$("#s2,#s40").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2F64e609646e1404e71d50cda4038277095405c781.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637301011&t=8181346b1a7a6f5d9c32f8267d75fc8b");
+    $(".header-img-squre>img").attr("src", "img/idol/与田祐希.jpg");
     $("#l-c p:nth-child(1)").text("与田祐希");
     $("#l-c p:nth-child(2)").text("别名：よだ ゆうき/yoda yuuki/yoda");
     $("#l-c p:nth-child(3)").text("出生日期：2000年5月5日");
@@ -29,13 +29,13 @@ $("#s2,#s40").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46三期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 喜欢小动物 充满色气");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/yoda1.png");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/yoda2.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/yoda1.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/yoda2.png");
 });
-$("#s3").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/小嶋阳菜-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/小嶋阳菜.jpg");
+$("#s3").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/小嶋阳菜-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/小嶋阳菜.jpg");
     $("#l-c p:nth-child(1)").text("小嶋陽菜");
     $("#l-c p:nth-child(2)").text("别名：こじま はるな/Kojima Harun/にゃんにゃん");
     $("#l-c p:nth-child(3)").text("出生日期：1988年4月19日");
@@ -46,13 +46,13 @@ $("#s3").click(function(){
     $("#r-c p:nth-child(3)").text("所属：原AKB48成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Ogi Production");
     $("#r-c p:nth-child(5)").text("特征：美乳美臀王 性感 美丽 可爱");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fa4fd69cd185868bd733bbbcd490ece3ed269ab7e491fe-Hpw86i_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637302071&t=4021f9660d757920fdbcfbe99a1edc1c");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.n63.com%2Fzutu%2Fn63%2F%3FN%3DX2hiJTI2JTJCLiUyQSUyQyUyQy4xMCUyRiUyOC0lMkMlNUNaJTI4JTVDJTJGJTVCJTJDWSU1Qy0lNUMwJTVCJTI5JTVCLTAlNUUwWiUyOCUyQSUyN1olMjglMkE%253D%26v%3D.jpg&refer=http%3A%2F%2Fwww.n63.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637302268&t=ca962817748e02d68c63b7a76894bcce");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fa4fd69cd185868bd733bbbcd490ece3ed269ab7e491fe-Hpw86i_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637302071&t=4021f9660d757920fdbcfbe99a1edc1c");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.n63.com%2Fzutu%2Fn63%2F%3FN%3DX2hiJTI2JTJCLiUyQSUyQyUyQy4xMCUyRiUyOC0lMkMlNUNaJTI4JTVDJTJGJTVCJTJDWSU1Qy0lNUMwJTVCJTI5JTVCLTAlNUUwWiUyOCUyQSUyN1olMjglMkE%253D%26v%3D.jpg&refer=http%3A%2F%2Fwww.n63.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637302268&t=ca962817748e02d68c63b7a76894bcce");
 });
-$("#s4").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/卫藤美彩-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/卫藤美彩.jpg");
+$("#s4").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/卫藤美彩-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/卫藤美彩.jpg");
     $("#l-c p:nth-child(1)").text("衛藤美彩");
     $("#l-c p:nth-child(2)").text("别名：えとう みさ/みさ先輩、みさみさ/misa");
     $("#l-c p:nth-child(3)").text("出生日期：1993年1月4日");
@@ -63,13 +63,13 @@ $("#s4").click(function(){
     $("#r-c p:nth-child(3)").text("所属：原乃木坂46一期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：SME");
     $("#r-c p:nth-child(5)").text("特征：因为拥有少有的诱人的白嫩肌肤和冷艳十足的表情 成熟 性感 可爱");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/p2430475032.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/p2329630873.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/p2430475032.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/p2329630873.jpg");
 });
-$("#s5,#s44").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/石田千穗-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/石田千穗.jpg");
+$("#s5,#s44").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/石田千穗-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/石田千穗.jpg");
     $("#l-c p:nth-child(1)").text("石田千穂");
     $("#l-c p:nth-child(2)").text("别名：いしだ ちほ");
     $("#l-c p:nth-child(3)").text("出生日期：2002年3月17日");
@@ -80,13 +80,13 @@ $("#s5,#s44").click(function(){
     $("#r-c p:nth-child(3)").text("所属：STU48一期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：株式会社AKS");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 充满活力");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/chiho (4).jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/chiho (6).jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/chiho (4).jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/chiho (6).jpg");
 });
-$("#s6").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/宫胁咲良-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/宫胁咲良.jpg");
+$("#s6").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/宫胁咲良-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/宫胁咲良.jpg");
     $("#l-c p:nth-child(1)").text("宮脇咲良");
     $("#l-c p:nth-child(2)").text("别名：みやわき さくら/Miyawaki Sakura/Sakura(小樱花)");
     $("#l-c p:nth-child(3)").text("出生日期：1998年3月19日");
@@ -97,13 +97,13 @@ $("#s6").click(function(){
     $("#r-c p:nth-child(3)").text("所属：原HKT48一期生及核心成员 Team KIV副队长兼AKB48 Team A成员 IZ*ONE成员");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 美丽 唱功优秀 努力");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201708%2F02%2F20170802102804_imGty.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637303686&t=4a25e5b0e3ef0a6bc5ecc2a057b86fb2");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F14%2F20180514160820_W32uU.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637303668&t=5eefc3617154caf400c0d91dca55a216");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201708%2F02%2F20170802102804_imGty.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637303686&t=4a25e5b0e3ef0a6bc5ecc2a057b86fb2");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F14%2F20180514160820_W32uU.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637303668&t=5eefc3617154caf400c0d91dca55a216");
 });
-$("#s6").click(function(){
-    $(".modol").css({display:'block',height:'88%'});
-    $(".header-img>img").attr("src","img/idol/宫胁咲良-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/宫胁咲良.jpg");
+$("#s6").click(function() {
+    $(".modol").css({ display: 'block', height: '88%' });
+    $(".header-img>img").attr("src", "img/idol/宫胁咲良-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/宫胁咲良.jpg");
     $("#l-c p:nth-child(1)").text("宮脇咲良");
     $("#l-c p:nth-child(2)").text("别名：みやわき さくら/Miyawaki Sakura/Sakura(小樱花)");
     $("#l-c p:nth-child(3)").text("出生日期：1998年3月19日");
@@ -114,13 +114,13 @@ $("#s6").click(function(){
     $("#r-c p:nth-child(3)").text("所属：原HKT48一期生及核心成员 Team KIV副队长兼AKB48 Team A成员 IZ*ONE成员");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 美丽 唱功优秀 努力");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201708%2F02%2F20170802102804_imGty.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637303686&t=4a25e5b0e3ef0a6bc5ecc2a057b86fb2");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F14%2F20180514160820_W32uU.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637303668&t=5eefc3617154caf400c0d91dca55a216");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201708%2F02%2F20170802102804_imGty.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637303686&t=4a25e5b0e3ef0a6bc5ecc2a057b86fb2");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F14%2F20180514160820_W32uU.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637303668&t=5eefc3617154caf400c0d91dca55a216");
 });
-$("#s7").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/向井地美音-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/向井地美音.png");
+$("#s7").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/向井地美音-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/向井地美音.png");
     $("#l-c p:nth-child(1)").text("向井地美音");
     $("#l-c p:nth-child(2)").text("别名：むかいち みおん/Mukaichi Mion/mion");
     $("#l-c p:nth-child(3)").text("出生日期：1998年1月29日");
@@ -131,13 +131,13 @@ $("#s7").click(function(){
     $("#r-c p:nth-child(3)").text("所属：AKB48 15期生，Team K成员");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS");
     $("#r-c p:nth-child(5)").text("特征：唱功好 作为偶像而言，她的潜在能力也很高。清纯 可爱 胸大");
-    $(".photo:nth-child(1)>img").attr("src","https://img1.baidu.com/it/u=3278957640,3742963254&fm=26&fmt=auto");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.phb123.com%2Fuploads%2Fallimg%2F170802%2F17-1FP221123b27.jpg&refer=http%3A%2F%2Fimg.phb123.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637304188&t=fdb003a5e810cf4bf77b6d9909a613c7");
+    $(".photo:nth-child(1)>img").attr("src", "https://img1.baidu.com/it/u=3278957640,3742963254&fm=26&fmt=auto");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.phb123.com%2Fuploads%2Fallimg%2F170802%2F17-1FP221123b27.jpg&refer=http%3A%2F%2Fimg.phb123.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637304188&t=fdb003a5e810cf4bf77b6d9909a613c7");
 });
-$("#s8").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/板野友美-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/板野友美.jpg");
+$("#s8").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/板野友美-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/板野友美.jpg");
     $("#l-c p:nth-child(1)").text("板野友美");
     $("#l-c p:nth-child(2)").text("别名：いたのともみ/Itano Tomomi/虎牙/Tomochin");
     $("#l-c p:nth-child(3)").text("出生日期：1991年7月3日");
@@ -148,13 +148,13 @@ $("#s8").click(function(){
     $("#r-c p:nth-child(3)").text("所属：AKB48前成员");
     $("#r-c p:nth-child(4)").text("经纪公司：ホリプロ（Hori production）");
     $("#r-c p:nth-child(5)").text("特征：在日本有AKB48的“时尚教主”和小安室奈美惠之称 性格坦率直接 唱歌好");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwx3.sinaimg.cn%2Fmw690%2F006Fkv3sly1gva2224crzj60h70if42v02.jpg&refer=http%3A%2F%2Fwx3.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637305637&t=3363729283212c55cd8658f43567b444");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg2.soyoung.com%2Ftieba%2Fandroid%2Fpost%2F20200630%2F2%2F048e58de501f10808db88d200e971b50_570.jpg&refer=http%3A%2F%2Fimg2.soyoung.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637305670&t=ede79c25d2271c276e8f578c9b2ae471");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwx3.sinaimg.cn%2Fmw690%2F006Fkv3sly1gva2224crzj60h70if42v02.jpg&refer=http%3A%2F%2Fwx3.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637305637&t=3363729283212c55cd8658f43567b444");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg2.soyoung.com%2Ftieba%2Fandroid%2Fpost%2F20200630%2F2%2F048e58de501f10808db88d200e971b50_570.jpg&refer=http%3A%2F%2Fimg2.soyoung.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637305670&t=ede79c25d2271c276e8f578c9b2ae471");
 });
-$("#s9").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/柏木由纪-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/柏木由纪.jpg");
+$("#s9").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/柏木由纪-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/柏木由纪.jpg");
     $("#l-c p:nth-child(1)").text("柏木由紀");
     $("#l-c p:nth-child(2)").text("别名：かしわぎ ゆき/Kashiwagi Yuki/yukirin");
     $("#l-c p:nth-child(3)").text("出生日期：1991年7月15日");
@@ -165,13 +165,13 @@ $("#s9").click(function(){
     $("#r-c p:nth-child(3)").text("所属：AKB48 Team B成员/兼任NGT48 Team NⅢ");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS/BISCUIT ENTERTAINMENT");
     $("#r-c p:nth-child(5)").text("特征：唱功出色 气质非凡 性感 美丽");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.3dmgame.com%2Fuploads%2Fimages2%2Fnews%2F20200220%2F1582191364_392430.jpg&refer=http%3A%2F%2Fimg.3dmgame.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637306103&t=ff6680916d2dbe5bd98ca8a9215acfac");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.3dmgame.com%2Fuploads%2Fimages2%2Fnews%2F20200220%2F1582191321_517958.jpg&refer=http%3A%2F%2Fimg.3dmgame.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637306187&t=32d2ad1cfdfc75eb6431604bff87fd03");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.3dmgame.com%2Fuploads%2Fimages2%2Fnews%2F20200220%2F1582191364_392430.jpg&refer=http%3A%2F%2Fimg.3dmgame.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637306103&t=ff6680916d2dbe5bd98ca8a9215acfac");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.3dmgame.com%2Fuploads%2Fimages2%2Fnews%2F20200220%2F1582191321_517958.jpg&refer=http%3A%2F%2Fimg.3dmgame.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637306187&t=32d2ad1cfdfc75eb6431604bff87fd03");
 });
-$("#s10,#s47").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/薮下枫-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/薮下枫.png");
+$("#s10,#s47").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/薮下枫-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/薮下枫.png");
     $("#l-c p:nth-child(1)").text("薮下楓");
     $("#l-c p:nth-child(2)").text("别名：やぶした ふう/YABUSHITA FU");
     $("#l-c p:nth-child(3)").text("出生日期：2000年10月07日");
@@ -182,13 +182,13 @@ $("#s10,#s47").click(function(){
     $("#r-c p:nth-child(3)").text("所属：STU48一期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 活泼 声音细腻尖锐 唱功好");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0807%2F83e6a88fj00qxguzx001uc000hs00npg.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637306710&t=d249ecf28b54697db048a7d0f180784f");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0807%2F78292744j00qxgv000010c000hs00npg.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637306723&t=86e1f6bb796bb5354de941ddf2d1f8ec");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0807%2F83e6a88fj00qxguzx001uc000hs00npg.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637306710&t=d249ecf28b54697db048a7d0f180784f");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0807%2F78292744j00qxgv000010c000hs00npg.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637306723&t=86e1f6bb796bb5354de941ddf2d1f8ec");
 });
-$("#s11").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/斋藤飞鸟-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/斋藤飞鸟.png");
+$("#s11").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/斋藤飞鸟-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/斋藤飞鸟.png");
     $("#l-c p:nth-child(1)").text("齋藤飛鳥");
     $("#l-c p:nth-child(2)").text("别名：さいとう あすか/Saito Asuka/asuka");
     $("#l-c p:nth-child(3)").text("出生日期：1998年8月10日");
@@ -199,13 +199,13 @@ $("#s11").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46的一期生成员(主人公)");
     $("#r-c p:nth-child(4)").text("经纪公司：乃木坂46合同会社");
     $("#r-c p:nth-child(5)").text("特征：清纯可爱 “被神选中的美少女” 声音特别 唱功出色");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201801%2F24%2F20180124172848_rqkip.thumb.700_0.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637308015&t=ca72d9881a8d506e1c6ec7e978f49ea8");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201606%2F25%2F20160625140125_k45iV.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637308067&t=c86c93dcd44f1edd4c384c873a864b69");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201801%2F24%2F20180124172848_rqkip.thumb.700_0.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637308015&t=ca72d9881a8d506e1c6ec7e978f49ea8");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201606%2F25%2F20160625140125_k45iV.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637308067&t=c86c93dcd44f1edd4c384c873a864b69");
 });
-$("#s12").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/佐藤枫-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/佐藤枫.png");
+$("#s12").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/佐藤枫-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/佐藤枫.png");
     $("#l-c p:nth-child(1)").text("佐藤楓");
     $("#l-c p:nth-child(2)").text("别名：さとう かえで/Sato Kaede/点酱");
     $("#l-c p:nth-child(3)").text("出生日期：1998年3月23日");
@@ -216,13 +216,13 @@ $("#s12").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46的三期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 美丽 斯文");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F20843bef75eaf46f52b840c5b2db45090b8f7ad4.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637308325&t=c1941d5cea2f4a4dfe88f45c28fb1308");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fc2b196b4f0004d86920e6afc569f57c6ef4e72dd.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637308357&t=59f0a7b75c71aae6de75936e0275eb53");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F20843bef75eaf46f52b840c5b2db45090b8f7ad4.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637308325&t=c1941d5cea2f4a4dfe88f45c28fb1308");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fc2b196b4f0004d86920e6afc569f57c6ef4e72dd.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637308357&t=59f0a7b75c71aae6de75936e0275eb53");
 });
-$("#s13").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/斋藤优里-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/斉藤优里.jpg");
+$("#s13").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/斋藤优里-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/斉藤优里.jpg");
     $("#l-c p:nth-child(1)").text("斉藤優里");
     $("#l-c p:nth-child(2)").text("别名：さいとう ゆうり/Saito Yuri/yuri");
     $("#l-c p:nth-child(3)").text("出生日期：1993年7月20日");
@@ -233,13 +233,13 @@ $("#s13").click(function(){
     $("#r-c p:nth-child(3)").text("所属：原乃木坂46的一期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 美丽 开朗 爱恶作剧 喜欢撒娇 超绝美少女");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.yzcdn.cn%2Fupload_files%2F2019%2F09%2F19%2F8a9eef62ddcf0ff37838cc4c5a962af2.jpg%21730x0.jpg&refer=http%3A%2F%2Fimg.yzcdn.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637309575&t=1f571966e9cb19ecd5b168deb67baca7");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp4.itc.cn%2Fimages01%2F20200628%2Fb6f7ca5c90f34c8b999a0985d21a4a80.jpeg&refer=http%3A%2F%2Fp4.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637309558&t=f1ac214aade19c9d5d4f85c8fde4a3a7");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.yzcdn.cn%2Fupload_files%2F2019%2F09%2F19%2F8a9eef62ddcf0ff37838cc4c5a962af2.jpg%21730x0.jpg&refer=http%3A%2F%2Fimg.yzcdn.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637309575&t=1f571966e9cb19ecd5b168deb67baca7");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp4.itc.cn%2Fimages01%2F20200628%2Fb6f7ca5c90f34c8b999a0985d21a4a80.jpeg&refer=http%3A%2F%2Fp4.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637309558&t=f1ac214aade19c9d5d4f85c8fde4a3a7");
 });
-$("#s14").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/鈴木優香-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/鈴木優香.jpg");
+$("#s14").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/鈴木優香-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/鈴木優香.jpg");
     $("#l-c p:nth-child(1)").text("鈴木優香");
     $("#l-c p:nth-child(2)").text("别名：すずき ゆうか/Suzuki Yuka/皆川優香/ゆうかりん");
     $("#l-c p:nth-child(3)").text("出生日期：2000年8月15日");
@@ -250,13 +250,13 @@ $("#s14").click(function(){
     $("#r-c p:nth-child(3)").text("所属：AKB48 Team 8成员");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS");
     $("#r-c p:nth-child(5)").text("特征：AKB48 Team 8新成员 青春 充满活力 清纯 可爱 超级美少女");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwx4.sinaimg.cn%2Forj360%2Fe1ddbb61ly1gcmun08q16j21u02p6b2a.jpg&refer=http%3A%2F%2Fwx4.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637309930&t=dd765ece756b3bd06183c2e5c75ad362");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F5Wpti8Ugr8GarAiLV8HrYI8TcgfGyluTRSjBzJs8Mhb8y1618606411684.jpeg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637309920&t=ab47a34c9ce57aec091e58b8b43077d3");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwx4.sinaimg.cn%2Forj360%2Fe1ddbb61ly1gcmun08q16j21u02p6b2a.jpg&refer=http%3A%2F%2Fwx4.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637309930&t=dd765ece756b3bd06183c2e5c75ad362");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F5Wpti8Ugr8GarAiLV8HrYI8TcgfGyluTRSjBzJs8Mhb8y1618606411684.jpeg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637309920&t=ab47a34c9ce57aec091e58b8b43077d3");
 });
-$("#s15").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/矢吹奈子-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/矢吹奈子.jpg");
+$("#s15").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/矢吹奈子-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/矢吹奈子.jpg");
     $("#l-c p:nth-child(1)").text("矢吹奈子");
     $("#l-c p:nth-child(2)").text("别名：やぶき なこ/야부키 나코/Yabuki Nako/なこ(Nako)");
     $("#l-c p:nth-child(3)").text("出生日期：2001年6月18日");
@@ -267,13 +267,13 @@ $("#s15").click(function(){
     $("#r-c p:nth-child(3)").text("所属：HKT48 Team H成员、IZ*ONE成员");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS");
     $("#r-c p:nth-child(5)").text("特征：双眼皮变单眼皮 编麻花辫芭蕾 清纯 可爱 笑容甜美 声音细腻 唱功优秀");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201901%2F24%2F20190124125340_liwix.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637310394&t=f5599bd25e3fa08697ca1d79c7c7ad81");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201905%2F30%2F20190530164117_ktjvk.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637310392&t=63b0c8ce881ae833632e6376a8b1d53e");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201901%2F24%2F20190124125340_liwix.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637310394&t=f5599bd25e3fa08697ca1d79c7c7ad81");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201905%2F30%2F20190530164117_ktjvk.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637310392&t=63b0c8ce881ae833632e6376a8b1d53e");
 });
-$("#s16,#s41").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/金村美玖-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/金村美玖.jpg");
+$("#s16,#s41").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/金村美玖-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/金村美玖.jpg");
     $("#l-c p:nth-child(1)").text("金村美玖");
     $("#l-c p:nth-child(2)").text("别名：かねむら みく/Kanemura Miku/Miku");
     $("#l-c p:nth-child(3)").text("出生日期：2002年9月10日");
@@ -284,13 +284,13 @@ $("#s16,#s41").click(function(){
     $("#r-c p:nth-child(3)").text("所属：日向坂46成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：特技是在吹奏乐部担任的萨克斯 高贵气质 美丽可爱 性感");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fww2.sinaimg.cn%2Fmw690%2F006BCHllgy1gu8h6vjjcbj60u0170jui02.jpg&refer=http%3A%2F%2Fwww.sina.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637310809&t=362352711f5cf58c90e9903b2363ac");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/miku2.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fww2.sinaimg.cn%2Fmw690%2F006BCHllgy1gu8h6vjjcbj60u0170jui02.jpg&refer=http%3A%2F%2Fwww.sina.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637310809&t=362352711f5cf58c90e9903b2363ac");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/miku2.jpg");
 });
-$("#s17,#s42").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/河田陽菜-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/hina.png");
+$("#s17,#s42").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/河田陽菜-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/hina.png");
     $("#l-c p:nth-child(1)").text("河田陽菜");
     $("#l-c p:nth-child(2)").text("别名：かわた ひな/KAWADA HINA/hina、小阳菜");
     $("#l-c p:nth-child(3)").text("出生日期：2001年7月23日");
@@ -301,13 +301,13 @@ $("#s17,#s42").click(function(){
     $("#r-c p:nth-child(3)").text("所属：日向坂46成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Labels Inc");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 活泼开朗");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fa3fbbfbcbb11d1fe05b4a7289d1ff3e260a3d421.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637311342&t=b6f0f5001ce4003dc2779f839dc26cb6");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F5963d4f2bc7a94e8f7980dcc674e3d81f48927ee.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637311778&t=8cdb85754b0eae9f2e3f6e013dcca475");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fa3fbbfbcbb11d1fe05b4a7289d1ff3e260a3d421.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637311342&t=b6f0f5001ce4003dc2779f839dc26cb6");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F5963d4f2bc7a94e8f7980dcc674e3d81f48927ee.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637311778&t=8cdb85754b0eae9f2e3f6e013dcca475");
 });
-$("#s18").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp6.itc.cn%2Fq_70%2Fimages03%2F20200610%2Fd81f5ce185e24005830de7a257c45b59.jpeg&refer=http%3A%2F%2Fp6.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637311398&t=ac090ab06e080b6576d04998870f72ae");
-    $(".header-img-squre>img").attr("src","img/idol/齐藤京子.jpg");
+$("#s18").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp6.itc.cn%2Fq_70%2Fimages03%2F20200610%2Fd81f5ce185e24005830de7a257c45b59.jpeg&refer=http%3A%2F%2Fp6.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637311398&t=ac090ab06e080b6576d04998870f72ae");
+    $(".header-img-squre>img").attr("src", "img/idol/齐藤京子.jpg");
     $("#l-c p:nth-child(1)").text("齊藤京子");
     $("#l-c p:nth-child(2)").text("别名：さいとう きょうこ/SAITO KYOKO");
     $("#l-c p:nth-child(3)").text("出生日期：1997年9月5日");
@@ -318,13 +318,13 @@ $("#s18").click(function(){
     $("#r-c p:nth-child(3)").text("所属：日向坂46成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Labels Inc");
     $("#r-c p:nth-child(5)").text("特征：清纯 美丽 可爱");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/kyokyo1.png");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/kyokyo2.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/kyokyo1.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/kyokyo2.png");
 });
-$("#s19").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/堀未央奈-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/堀未央奈.png");
+$("#s19").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/堀未央奈-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/堀未央奈.png");
     $("#l-c p:nth-child(1)").text("堀未央奈");
     $("#l-c p:nth-child(2)").text("别名：ほり みおな/Hori Miona/みおな/hori");
     $("#l-c p:nth-child(3)").text("出生日期：1996年10月15日");
@@ -335,13 +335,13 @@ $("#s19").click(function(){
     $("#r-c p:nth-child(3)").text("所属：原乃木坂46二期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：清纯 美丽 气质非凡 笑点和笑声都很谜人 尽显清新美");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/p2560831800.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/p2601252914.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/p2560831800.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/p2601252914.jpg");
 });
-$("#s20,#s48").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/坂口渚沙-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/坂口渚沙.jpg");
+$("#s20,#s48").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/坂口渚沙-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/坂口渚沙.jpg");
     $("#l-c p:nth-child(1)").text("坂口渚紗");
     $("#l-c p:nth-child(2)").text("别名：さかぐち なぎさ/なぎ/SakaguchiNagisa/なぎなぎ");
     $("#l-c p:nth-child(3)").text("出生日期：2000年12月23日");
@@ -352,13 +352,13 @@ $("#s20,#s48").click(function(){
     $("#r-c p:nth-child(3)").text("所属：AKB48 Team8成员、兼任Team4");
     $("#r-c p:nth-child(4)").text("经纪公司：株式会社AKS");
     $("#r-c p:nth-child(5)").text("特征：左撇子 魅力点是眼睛 清纯 可爱 充满少女魅力");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/nagisa.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/渚沙.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/nagisa.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/渚沙.jpg");
 });
-$("#s21").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/白间美瑠-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/白间美瑠.jpg");
+$("#s21").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/白间美瑠-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/白间美瑠.jpg");
     $("#l-c p:nth-child(1)").text("白間美瑠");
     $("#l-c p:nth-child(2)").text("别名：しろま みる/みるるん(miru)/shiroma miru");
     $("#l-c p:nth-child(3)").text("出生日期：1997年10月14日");
@@ -369,13 +369,13 @@ $("#s21").click(function(){
     $("#r-c p:nth-child(3)").text("所属：原NMB48一期生，Team M成员 兼 AKB48 Team A成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Showtitle");
     $("#r-c p:nth-child(5)").text("特征：性感 美丽 美白肌肤 修长苗条 身材极好");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fafc072f53f097b7051d4fc4af9fb9cee29faa5a66733a-LaGN6w_fw236&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637388014&t=d5b48f6c4c75497bb530857c79da8dda");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F25%2F20180525035128_hX4KH.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637387979&t=8449e88db464a5258751d89228e9902f");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fafc072f53f097b7051d4fc4af9fb9cee29faa5a66733a-LaGN6w_fw236&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637388014&t=d5b48f6c4c75497bb530857c79da8dda");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F25%2F20180525035128_hX4KH.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637387979&t=8449e88db464a5258751d89228e9902f");
 });
-$("#s22").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/松冈菜摘-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/松冈菜摘.jpg");
+$("#s22").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/松冈菜摘-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/松冈菜摘.jpg");
     $("#l-c p:nth-child(1)").text("松岡菜摘");
     $("#l-c p:nth-child(2)").text("别名：まつおか なつみ/なつ");
     $("#l-c p:nth-child(3)").text("出生日期：1996年8月8日");
@@ -386,13 +386,13 @@ $("#s22").click(function(){
     $("#r-c p:nth-child(3)").text("所属：HKT48 Team H队长");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 身材极好 超害羞");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201705%2F07%2F20170507080009_KUzhv.thumb.700_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637388260&t=c091e385e35a86e0d15cb02752bb3566");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.17getfun.com%2F5dc7ff30ccf741bc8c5966d4b0aa269320160311190847.JPEG&refer=http%3A%2F%2Fimg.17getfun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637388287&t=f0de784c99a843bd1a6e68cb1f3d6efe");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201705%2F07%2F20170507080009_KUzhv.thumb.700_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637388260&t=c091e385e35a86e0d15cb02752bb3566");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.17getfun.com%2F5dc7ff30ccf741bc8c5966d4b0aa269320160311190847.JPEG&refer=http%3A%2F%2Fimg.17getfun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637388287&t=f0de784c99a843bd1a6e68cb1f3d6efe");
 });
-$("#s23,#s49").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/挂桥沙耶香-l.png");
-    $(".header-img-squre>img").attr("src","img/idol/挂桥沙耶香.jpg");
+$("#s23,#s49").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/挂桥沙耶香-l.png");
+    $(".header-img-squre>img").attr("src", "img/idol/挂桥沙耶香.jpg");
     $("#l-c p:nth-child(1)").text("掛橋沙耶香");
     $("#l-c p:nth-child(2)").text("别名：かけはし さやか");
     $("#l-c p:nth-child(3)").text("出生日期：2002年11月20日");
@@ -403,13 +403,13 @@ $("#s23,#s49").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46四期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 活泼开朗");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/guaqiao1.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/guaqiao2.jpeg");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/guaqiao1.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/guaqiao2.jpeg");
 });
-$("#s24").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/桥本奈奈末-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/桥本奈奈末.jpg");
+$("#s24").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/桥本奈奈末-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/桥本奈奈末.jpg");
     $("#l-c p:nth-child(1)").text("橋本奈々未");
     $("#l-c p:nth-child(2)").text("别名：Hashimoto Nanami/ななみん/nanamin");
     $("#l-c p:nth-child(3)").text("出生日期：1993年2月20日");
@@ -420,13 +420,13 @@ $("#s24").click(function(){
     $("#r-c p:nth-child(3)").text("所属：所属：原乃木坂46一期生成员");
     $("#r-c p:nth-child(4)").text("特长：吉他 剑玉");
     $("#r-c p:nth-child(5)").text("特征：美丽 成熟 优秀 毕业于武藏野美术大学室内设计系，『CanCam』 的专属模特。在歌迷中与白石麻衣、松村沙友理合称为乃木坂46的“御三家”。");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.xnnews.com.cn%2Fwenyu%2Flxsj%2F201702%2FW020170227803417720971.jpg&refer=http%3A%2F%2Fwww.xnnews.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637389207&t=12d4d1f90fdd69e993a96fa8f22194f2");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201704%2F12%2F20170412084830_UmQ5w.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637389190&t=d8c739531cdb80733e9de1a1907b08d9");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.xnnews.com.cn%2Fwenyu%2Flxsj%2F201702%2FW020170227803417720971.jpg&refer=http%3A%2F%2Fwww.xnnews.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637389207&t=12d4d1f90fdd69e993a96fa8f22194f2");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201704%2F12%2F20170412084830_UmQ5w.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637389190&t=d8c739531cdb80733e9de1a1907b08d9");
 });
-$("#s25").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/加藤玲奈-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/加藤玲奈.jpg");
+$("#s25").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/加藤玲奈-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/加藤玲奈.jpg");
     $("#l-c p:nth-child(1)").text("加藤玲奈");
     $("#l-c p:nth-child(2)").text("别名：かとう れな/れなっち、かとれな/玲奈七、小七/rera");
     $("#l-c p:nth-child(3)").text("出生日期：1997年7月10日");
@@ -437,13 +437,13 @@ $("#s25").click(function(){
     $("#r-c p:nth-child(3)").text("所属：AKB48第10期研究生，Team A成员");
     $("#r-c p:nth-child(4)").text("经纪公司：AKS");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 温柔");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F06%2F20180506234656_ycLnQ.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637389610&t=6ecef57f62afe3511de62ad4a33ddb3e");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F0416c63cbd231a13f7c7dcda365b18e981f22f4a28dcf-qnRj3X_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637389686&t=13fd81ff4ebfec6b78e81be818b496cd");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F06%2F20180506234656_ycLnQ.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637389610&t=6ecef57f62afe3511de62ad4a33ddb3e");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F0416c63cbd231a13f7c7dcda365b18e981f22f4a28dcf-qnRj3X_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637389686&t=13fd81ff4ebfec6b78e81be818b496cd");
 });
-$("#s26").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F4d591576a1f3822e3d10431daf709f7b4f1725f0.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637390728&t=135a410be2b75d2bdcd898f6e3b8b591");
-    $(".header-img-squre>img").attr("src","img/idol/新内眞衣.jpg");
+$("#s26").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F4d591576a1f3822e3d10431daf709f7b4f1725f0.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637390728&t=135a410be2b75d2bdcd898f6e3b8b591");
+    $(".header-img-squre>img").attr("src", "img/idol/新内眞衣.jpg");
     $("#l-c p:nth-child(1)").text("新内眞衣");
     $("#l-c p:nth-child(2)").text("别名：しんうち まい/Shinuchi Mai");
     $("#l-c p:nth-child(3)").text("出生日期：1992年1月22日");
@@ -454,13 +454,13 @@ $("#s26").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46二期成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music");
     $("#r-c p:nth-child(5)").text("特征：性感 美丽 修长苗条 身材极好 最耀眼的就是“美腿”");
-    $(".photo:nth-child(1)>img").attr("src","https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/baike/w=268/sign=834a2b8fb9096b638119595634328733/b17eca8065380cd7182f4e4da644ad3459828159.jpg");
-    $(".photo:nth-child(2)>img").attr("src","https://ss3.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/baike/w=268/sign=bb556eaed643ad4ba62e41c6ba035a89/8718367adab44aed4c152defb41c8701a18bfb66.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/baike/w=268/sign=834a2b8fb9096b638119595634328733/b17eca8065380cd7182f4e4da644ad3459828159.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "https://ss3.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/baike/w=268/sign=bb556eaed643ad4ba62e41c6ba035a89/8718367adab44aed4c152defb41c8701a18bfb66.jpg");
 });
-$("#s27,#s50").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Ff78d4288e881de6c5c731ce9856d170203f15d0c.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637391176&t=6a5f574b48ea1d4f97a6f1c1d1f02d94");
-    $(".header-img-squre>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimglf6.nosdn0.126.net%2Fimg%2FN01EMXM3eVcrRmU5N3VXZ0JlNDA1YnNHQjBpcUpub0VacTU3andpUGJ0RC9TTyt5eGRKd3F3PT0.jpg%3FimageView%26thumbnail%3D1680x0%26quality%3D96%26stripmeta%3D0%26type%3Djpg&refer=http%3A%2F%2Fimglf6.nosdn0.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637222295&t=ecaecf03184fb84f9c1bf290fd1bba76");
+$("#s27,#s50").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Ff78d4288e881de6c5c731ce9856d170203f15d0c.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637391176&t=6a5f574b48ea1d4f97a6f1c1d1f02d94");
+    $(".header-img-squre>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimglf6.nosdn0.126.net%2Fimg%2FN01EMXM3eVcrRmU5N3VXZ0JlNDA1YnNHQjBpcUpub0VacTU3andpUGJ0RC9TTyt5eGRKd3F3PT0.jpg%3FimageView%26thumbnail%3D1680x0%26quality%3D96%26stripmeta%3D0%26type%3Djpg&refer=http%3A%2F%2Fimglf6.nosdn0.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637222295&t=ecaecf03184fb84f9c1bf290fd1bba76");
     $("#l-c p:nth-child(1)").text("早川聖来");
     $("#l-c p:nth-child(2)").text("别名：はやかわ せいら");
     $("#l-c p:nth-child(3)").text("出生日期：2000年8月24日");
@@ -471,13 +471,13 @@ $("#s27,#s50").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46四期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 活泼 身材好");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fww2.sinaimg.cn%2Fmw690%2F007w1s3jgy1gvf8vzew9rj60wi15qk4u02.jpg&refer=http%3A%2F%2Fwww.sina.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637390792&t=0616ae20ae95e56a1be9db476aeb6f5c");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fdcf59d606a1dbcb811f46a4943878806247e085e.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637390801&t=765edadbf6c72b1430b1e8fa83a9694c");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fww2.sinaimg.cn%2Fmw690%2F007w1s3jgy1gvf8vzew9rj60wi15qk4u02.jpg&refer=http%3A%2F%2Fwww.sina.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637390792&t=0616ae20ae95e56a1be9db476aeb6f5c");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fdcf59d606a1dbcb811f46a4943878806247e085e.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637390801&t=765edadbf6c72b1430b1e8fa83a9694c");
 });
-$("#s28,#s51").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/梅泽美波-l.jpg");
-    $(".header-img-squre>img").attr("src","img/idol/梅泽美波.jpg");
+$("#s28,#s51").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/梅泽美波-l.jpg");
+    $(".header-img-squre>img").attr("src", "img/idol/梅泽美波.jpg");
     $("#l-c p:nth-child(1)").text("梅澤美波");
     $("#l-c p:nth-child(2)").text("别名：うめざわ みなみ/Umezawa Minami");
     $("#l-c p:nth-child(3)").text("出生日期：1999年1月6日");
@@ -488,13 +488,13 @@ $("#s28,#s51").click(function(){
     $("#r-c p:nth-child(3)").text("所属：乃木坂46三期生成员");
     $("#r-c p:nth-child(4)").text("经纪公司：Sony Music Records");
     $("#r-c p:nth-child(5)").text("特征：在15岁的时候看起来就像24岁，性格很温柔，很成熟，是三期生里面leader般的存在。");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimglf3.nosdn0.126.net%2Fimg%2FN01EMXM3eVcrRmZ2SlVZYVc3a0h3NGIyUG90VFFGK040WVBTc3ZiWWFWcEZvWWRIa29jZmV3PT0.jpg%3FimageView%26thumbnail%3D1680x0%26quality%3D96%26stripmeta%3D0%26type%3Djpg&refer=http%3A%2F%2Fimglf3.nosdn0.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637391515&t=e318add55b74643302e26f0d7f4f125a");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F1f4824c34e2be31d061382119b9c3c74e4b84979.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637391550&t=d5f21b33e3feecb2e845b7e9c26e4ec0");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimglf3.nosdn0.126.net%2Fimg%2FN01EMXM3eVcrRmZ2SlVZYVc3a0h3NGIyUG90VFFGK040WVBTc3ZiWWFWcEZvWWRIa29jZmV3PT0.jpg%3FimageView%26thumbnail%3D1680x0%26quality%3D96%26stripmeta%3D0%26type%3Djpg&refer=http%3A%2F%2Fimglf3.nosdn0.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637391515&t=e318add55b74643302e26f0d7f4f125a");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F1f4824c34e2be31d061382119b9c3c74e4b84979.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637391550&t=d5f21b33e3feecb2e845b7e9c26e4ec0");
 });
-$("#s29").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/riho_banner.png");
-    $(".header-img-squre>img").attr("src","img/idol/riho.png");
+$("#s29").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/riho_banner.png");
+    $(".header-img-squre>img").attr("src", "img/idol/riho.png");
     $("#l-c p:nth-child(1)").text("吉岡里帆");
     $("#l-c p:nth-child(2)").text("别名：よしおか りほ/Riho Yoshioka");
     $("#l-c p:nth-child(3)").text("出生日期：1993年1月15日");
@@ -505,13 +505,13 @@ $("#s29").click(function(){
     $("#r-c p:nth-child(3)").text("血型：B型");
     $("#r-c p:nth-child(4)").text("经纪公司：A-Team");
     $("#r-c p:nth-child(5)").text("特征：纯天然的气质和颜值，清纯与性感融合一身，透明美肌及诱人美乳曲线，集清纯、可爱和性感于一身，令人无法抗拒，被封为治愈系女演员。");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/riho2.png");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/riho3.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/riho2.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/riho3.png");
 });
-$("#s30").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/lara_banner.png");
-    $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/lara-2.png");
+$("#s30").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/lara_banner.png");
+    $(".header-img-squre>img").attr("src", "https://besa-lcx.github.io/rank/img/joyu/lara-2.png");
     $("#l-c p:nth-child(1)").text("梁心颐");
     $("#l-c p:nth-child(2)").text("别名：Lara Veronin/Lara");
     $("#l-c p:nth-child(3)").text("出生日期：1988年5月2日");
@@ -522,13 +522,13 @@ $("#s30").click(function(){
     $("#r-c p:nth-child(3)").text("血型：B型");
     $("#r-c p:nth-child(4)").text("经纪公司：新湃传媒");
     $("#r-c p:nth-child(5)").text("特征：可爱俏丽，乐观灵巧，性格亲和开朗，富有音乐才华。独特的声音，唱功十分优秀。");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fstatic.ettoday.net%2Fimages%2F308%2Fd308701.jpg&refer=http%3A%2F%2Fstatic.ettoday.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637421039&t=1cd188221010c7b2270341bd53893cf5");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimge.kugou.com%2Fstdmusic%2F20161213%2F20161213150625719813.jpg&refer=http%3A%2F%2Fimge.kugou.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637421071&t=f0499c75bf6c336554a0ad6dfc07b3f1");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fstatic.ettoday.net%2Fimages%2F308%2Fd308701.jpg&refer=http%3A%2F%2Fstatic.ettoday.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637421039&t=1cd188221010c7b2270341bd53893cf5");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimge.kugou.com%2Fstdmusic%2F20161213%2F20161213150625719813.jpg&refer=http%3A%2F%2Fimge.kugou.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637421071&t=f0499c75bf6c336554a0ad6dfc07b3f1");
 });
-$("#s31").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/yalisha.jpg");
-    $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/1.2485424044373048727.jpg");
+$("#s31").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/yalisha.jpg");
+    $(".header-img-squre>img").attr("src", "https://besa-lcx.github.io/rank/img/joyu/1.2485424044373048727.jpg");
     $("#l-c p:nth-child(1)").text("亜里沙");
     $("#l-c p:nth-child(2)").text("别名：Alisa");
     $("#l-c p:nth-child(3)").text("出生日期：1989年3月2日");
@@ -539,13 +539,13 @@ $("#s31").click(function(){
     $("#r-c p:nth-child(3)").text("血　型：O型");
     $("#r-c p:nth-child(4)").text("经纪公司：SUNS ENTERTAINME");
     $("#r-c p:nth-child(5)").text("特征：号称日本第一美巨乳，有着F级“天然美乳，「巨乳中带点清纯」。");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ffmn.rrimg.com%2Ffmn062%2F20130806%2F1850%2Flarge_Unwq_4a06000063ec1191.jpg&refer=http%3A%2F%2Ffmn.rrimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637500571&t=0b93a043f82d02f2370298484bcefeb3");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi.niupic.com%2Fimages%2F2018%2F12%2F27%2F5Eqj.jpg&refer=http%3A%2F%2Fi.niupic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637500645&t=0722b65010e0cff03ff12aaa99403f38");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ffmn.rrimg.com%2Ffmn062%2F20130806%2F1850%2Flarge_Unwq_4a06000063ec1191.jpg&refer=http%3A%2F%2Ffmn.rrimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637500571&t=0b93a043f82d02f2370298484bcefeb3");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi.niupic.com%2Fimages%2F2018%2F12%2F27%2F5Eqj.jpg&refer=http%3A%2F%2Fi.niupic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637500645&t=0722b65010e0cff03ff12aaa99403f38");
 });
-$("#s32,#s45").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/p2183977460.jpg");
-    $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/2.p2494249026.jpg");
+$("#s32,#s45").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/p2183977460.jpg");
+    $(".header-img-squre>img").attr("src", "https://besa-lcx.github.io/rank/img/joyu/2.p2494249026.jpg");
     $("#l-c p:nth-child(1)").text("橋本環奈");
     $("#l-c p:nth-child(2)").text("别名：はしもと かんな/Hashimoto Kanna");
     $("#l-c p:nth-child(3)").text("出生日期：1999年2月3日");
@@ -556,13 +556,13 @@ $("#s32,#s45").click(function(){
     $("#r-c p:nth-child(3)").text("血　型：AB型");
     $("#r-c p:nth-child(4)").text("经纪公司：Discovery Next");
     $("#r-c p:nth-child(5)").text("特征：被人们称作“千年一遇美少女”。她的脸小巧精致，一双又大又亮的淡棕色瞳孔让人印象深刻。清纯可爱，说话声音很小且有些沙哑，性格也很活泼，很真实，让人觉得有亲切感。对人与人的距离拿捏得的非常好，关系亲密又不失礼。");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fphoto%2Fl%2Fpublic%2Fp2463014180.jpg&refer=http%3A%2F%2Fimg3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637504668&t=f6c8d22cce7279de98370d35894ce8f8");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.xnnews.com.cn%2Fwenyu%2Frdzx%2F201901%2FW020190116394620007291.jpg&refer=http%3A%2F%2Fwww.xnnews.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637505197&t=f321414c594cc04b29fb7db9f3c0a4e8");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fphoto%2Fl%2Fpublic%2Fp2463014180.jpg&refer=http%3A%2F%2Fimg3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637504668&t=f6c8d22cce7279de98370d35894ce8f8");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.xnnews.com.cn%2Fwenyu%2Frdzx%2F201901%2FW020190116394620007291.jpg&refer=http%3A%2F%2Fwww.xnnews.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637505197&t=f321414c594cc04b29fb7db9f3c0a4e8");
 });
-$("#s33,#s43").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/黑木光_banner.png");
-    $(".header-img-squre>img").attr("src","img/idol/黑木光_header.png");
+$("#s33,#s43").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/黑木光_banner.png");
+    $(".header-img-squre>img").attr("src", "img/idol/黑木光_header.png");
     $("#l-c p:nth-child(1)").text("黒木ひかり");
     $("#l-c p:nth-child(2)").text("别名：HIKARI KUROKI");
     $("#l-c p:nth-child(3)").text("出生日期：2000年6月25日");
@@ -573,13 +573,13 @@ $("#s33,#s43").click(function(){
     $("#r-c p:nth-child(3)").text("血　型：O型");
     $("#r-c p:nth-child(4)").text("经纪公司：01familia");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 胸大的超级美少女");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/黑木光1.png");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/黑木光2.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/黑木光1.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/黑木光2.png");
 });
-$("#s34").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/金娜娜_banner.png");
-    $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/%E9%87%91%E5%A8%9C%E5%A8%9C.PNG");
+$("#s34").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/金娜娜_banner.png");
+    $(".header-img-squre>img").attr("src", "https://besa-lcx.github.io/rank/img/joyu/%E9%87%91%E5%A8%9C%E5%A8%9C.PNG");
     $("#l-c p:nth-child(1)").text("KIMNANA");
     $("#l-c p:nth-child(2)").text("别名：KIMNANA/金娜娜");
     $("#l-c p:nth-child(3)").text("出生日期：暂无资料");
@@ -590,13 +590,13 @@ $("#s34").click(function(){
     $("#r-c p:nth-child(3)").text("血　型：暂无资料");
     $("#r-c p:nth-child(4)").text("经纪公司：暂无资料");
     $("#r-c p:nth-child(5)").text("特征：性感 丰满 美丽 胸大 温柔");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/金娜娜2.png");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/金娜娜3.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/金娜娜2.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/金娜娜3.png");
 });
-$("#s35,#s52").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.pig66.com%2Fuploadfile%2F2017%2F0408%2F20170408101157989.jpg%3Fx-oss-process%3Dimage%2Fresize%2Cm_lfit%2Cw_500%2Climit_1%2Fauto-orient%2C1%2Fquality%2CQ_90&refer=http%3A%2F%2Fwww.pig66.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672036&t=3eb27048bbd99f71a8536dea63b9abb5");
-    $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/%E9%A5%AD%E4%B8%B0%E4%B8%87%E7%90%86%E6%B1%9F.jpg");
+$("#s35,#s52").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.pig66.com%2Fuploadfile%2F2017%2F0408%2F20170408101157989.jpg%3Fx-oss-process%3Dimage%2Fresize%2Cm_lfit%2Cw_500%2Climit_1%2Fauto-orient%2C1%2Fquality%2CQ_90&refer=http%3A%2F%2Fwww.pig66.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672036&t=3eb27048bbd99f71a8536dea63b9abb5");
+    $(".header-img-squre>img").attr("src", "https://besa-lcx.github.io/rank/img/joyu/%E9%A5%AD%E4%B8%B0%E4%B8%87%E7%90%86%E6%B1%9F.jpg");
     $("#l-c p:nth-child(1)").text("飯豊まりえ");
     $("#l-c p:nth-child(2)").text("别名：いいとよ まりえ/Iitoyo Marie/マリエ");
     $("#l-c p:nth-child(3)").text("出生日期：1998年1月5日");
@@ -607,13 +607,13 @@ $("#s35,#s52").click(function(){
     $("#r-c p:nth-child(3)").text("血　型：B型");
     $("#r-c p:nth-child(4)").text("经纪公司：avex management");
     $("#r-c p:nth-child(5)").text("特征：清新干净的笑容,气质清纯的饭丰被不少日本网友称赞“酷似新垣结衣”。");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F1017%252F3c2a8530j00r14cgw001jc000hs00ldc.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672259&t=9b7f1850294f07c5a3856927bcf18856");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fphoto%2Fl%2Fpublic%2Fp2531272078.jpg&refer=http%3A%2F%2Fimg1.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672281&t=36e2e87ac342a7d3b16c9e088d914c59");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F1017%252F3c2a8530j00r14cgw001jc000hs00ldc.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672259&t=9b7f1850294f07c5a3856927bcf18856");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fphoto%2Fl%2Fpublic%2Fp2531272078.jpg&refer=http%3A%2F%2Fimg1.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672281&t=36e2e87ac342a7d3b16c9e088d914c59");
 });
-$("#s36,#s46").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fe8d1ebf5db0dd43a1a64be1cae0cc5a344cb0b9f89e6-HoyABO_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672679&t=94a8d8fc31fb743aa4092426271d1166");
-    $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/%E7%A5%9E%E4%B9%90%E5%9D%82%E7%9C%9F%E5%86%AC.jpg");
+$("#s36,#s46").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fe8d1ebf5db0dd43a1a64be1cae0cc5a344cb0b9f89e6-HoyABO_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672679&t=94a8d8fc31fb743aa4092426271d1166");
+    $(".header-img-squre>img").attr("src", "https://besa-lcx.github.io/rank/img/joyu/%E7%A5%9E%E4%B9%90%E5%9D%82%E7%9C%9F%E5%86%AC.jpg");
     $("#l-c p:nth-child(1)").text("神楽坂真冬");
     $("#l-c p:nth-child(2)").text("别名：いいとよ まりえ/Iitoyo Marie/マリエ");
     $("#l-c p:nth-child(3)").text("出生日期：1999年6月24日");
@@ -624,13 +624,13 @@ $("#s36,#s46").click(function(){
     $("#r-c p:nth-child(3)").text("血　型：暂无资料");
     $("#r-c p:nth-child(4)").text("经纪公司：斗鱼直播");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 美丽的萝莉。");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn10110%2F561%2Fw1080h1081%2F20190216%2F9756-htacqwv5829741.jpg&refer=http%3A%2F%2Fn.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672833&t=93af6c2126b64ff0ffcd4938a8b9e519");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F109e73cfb4a92dee0d8468fde6924f66a57a648b4c339-h3zlEY_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637673014&t=3bef93ebe7a6842a71e33a2fe3da7538");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn10110%2F561%2Fw1080h1081%2F20190216%2F9756-htacqwv5829741.jpg&refer=http%3A%2F%2Fn.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637672833&t=93af6c2126b64ff0ffcd4938a8b9e519");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F109e73cfb4a92dee0d8468fde6924f66a57a648b4c339-h3zlEY_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637673014&t=3bef93ebe7a6842a71e33a2fe3da7538");
 });
-$("#s37").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://img1.baidu.com/it/u=1675571587,773789734&fm=15&fmt=auto");
-    $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/%E8%B4%9D%E9%BD%90%C2%B7%E5%BA%93%E5%B0%94.jpg");
+$("#s37").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://img1.baidu.com/it/u=1675571587,773789734&fm=15&fmt=auto");
+    $(".header-img-squre>img").attr("src", "https://besa-lcx.github.io/rank/img/joyu/%E8%B4%9D%E9%BD%90%C2%B7%E5%BA%93%E5%B0%94.jpg");
     $("#l-c p:nth-child(1)").text("Beckii Cruel（贝齐·库尔）");
     $("#l-c p:nth-child(2)").text("本名：瑞贝卡·弗兰特（Rebecca Flint）");
     $("#l-c p:nth-child(3)").text("出生日期：1995年6月5日");
@@ -641,13 +641,13 @@ $("#s37").click(function(){
     $("#r-c p:nth-child(3)").text("血型：暂无资料");
     $("#r-c p:nth-child(4)").text("经纪公司：斗鱼直播");
     $("#r-c p:nth-child(5)").text("特征：清纯 可爱 “动漫控”的阳光美少女。");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20131119%2F20131119163239-1637211584.jpg&refer=http%3A%2F%2Fpic.baike.soso.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637674125&t=046fb78166138be1e947b44725bfb2fc");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.bdstatic.com%2F7LsWdDW5_xN3otebn9fN2DJv%2Fdoc%2Fpic%2Fitem%2F0e2442a7d933c89586e627d5d81373f083020087.jpg&refer=http%3A%2F%2Fgss0.bdstatic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637674169&t=c0d49ca1b0e112626cdded9e374ac819");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20131119%2F20131119163239-1637211584.jpg&refer=http%3A%2F%2Fpic.baike.soso.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637674125&t=046fb78166138be1e947b44725bfb2fc");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.bdstatic.com%2F7LsWdDW5_xN3otebn9fN2DJv%2Fdoc%2Fpic%2Fitem%2F0e2442a7d933c89586e627d5d81373f083020087.jpg&refer=http%3A%2F%2Fgss0.bdstatic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637674169&t=c0d49ca1b0e112626cdded9e374ac819");
 });
-$("#s38").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/idol/小奶猪banner.png");
-    $(".header-img-squre>img").attr("src","https://besa-lcx.github.io/rank/img/joyu/%E5%B0%8F%E5%A5%B6%E7%8C%AAovo.jpg");
+$("#s38").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/idol/小奶猪banner.png");
+    $(".header-img-squre>img").attr("src", "https://besa-lcx.github.io/rank/img/joyu/%E5%B0%8F%E5%A5%B6%E7%8C%AAovo.jpg");
     $("#l-c p:nth-child(1)").text("小奶猪ovo");
     $("#l-c p:nth-child(2)").text("本名：未知");
     $("#l-c p:nth-child(3)").text("出生日期：未知");
@@ -658,13 +658,13 @@ $("#s38").click(function(){
     $("#r-c p:nth-child(3)").text("血型：暂无资料");
     $("#r-c p:nth-child(4)").text("经纪公司：暂无资料");
     $("#r-c p:nth-child(5)").text("特征：性感 妖娆 美丽");
-    $(".photo:nth-child(1)>img").attr("src","img/idol/小奶猪1.png");
-    $(".photo:nth-child(2)>img").attr("src","img/idol/小奶猪2.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/idol/小奶猪1.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/idol/小奶猪2.png");
 });
-$("#s53").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2Fc3b05d694b0c5c0b2798ee117b8792c77306fbde.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646382803&t=00b6f9a19f4132234f14a612d1ee5e60");
-    $(".header-img-squre>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201701%2F14%2F20170114225440_UVcWA.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646382480&t=14591ad3612f39056b8a6e2b98b569ae");
+$("#s53").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2Fc3b05d694b0c5c0b2798ee117b8792c77306fbde.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646382803&t=00b6f9a19f4132234f14a612d1ee5e60");
+    $(".header-img-squre>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201701%2F14%2F20170114225440_UVcWA.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646382480&t=14591ad3612f39056b8a6e2b98b569ae");
     $("#l-c p:nth-child(1)").text("深川麻衣");
     $("#l-c p:nth-child(2)").text("别名：ふかがわ まい");
     $("#l-c p:nth-child(3)").text("出生日期：1991年3月29日");
@@ -675,13 +675,13 @@ $("#s53").click(function(){
     $("#r-c p:nth-child(3)").text("血型：O型");
     $("#r-c p:nth-child(4)").text("经纪公司：Ten Carat");
     $("#r-c p:nth-child(5)").text("特征：温柔 可爱 美丽");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fauctions.c.yimg.jp%2Fimages.auctions.yahoo.co.jp%2Fimage%2Fdr170%2Fauc0211%2Fusers%2F0%2F5%2F5%2F1%2Fjrgsb531-img600x600-1455464263qpjt2b23940.jpg&refer=http%3A%2F%2Fauctions.c.yimg.jp&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646382796&t=4b70b3cc2d71b7e2dcfb9810a2b5e809");
-    $(".photo:nth-child(2)>img").attr("src","http://t14.baidu.com/it/u=2841025996,2415414566&fm=224&app=112&f=JPEG?w=345&h=503&s=89B65E907431259C5B84B1190300D0E5");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fauctions.c.yimg.jp%2Fimages.auctions.yahoo.co.jp%2Fimage%2Fdr170%2Fauc0211%2Fusers%2F0%2F5%2F5%2F1%2Fjrgsb531-img600x600-1455464263qpjt2b23940.jpg&refer=http%3A%2F%2Fauctions.c.yimg.jp&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646382796&t=4b70b3cc2d71b7e2dcfb9810a2b5e809");
+    $(".photo:nth-child(2)>img").attr("src", "http://t14.baidu.com/it/u=2841025996,2415414566&fm=224&app=112&f=JPEG?w=345&h=503&s=89B65E907431259C5B84B1190300D0E5");
 });
-$("#s54").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0103%2F78b00fc7j00qmbrna0017c000hs00cbc.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646384149&t=8b4eba2bfcf3750604271bd8a0497186");
-    $(".header-img-squre>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fww2.sinaimg.cn%2Fmw690%2F6d87b3degw1ethpx0ukb9j20g40m4tad.jpg&refer=http%3A%2F%2Fwww.sina.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646383697&t=e1568872c237a592d036941ff86bbc0b");
+$("#s54").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0103%2F78b00fc7j00qmbrna0017c000hs00cbc.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646384149&t=8b4eba2bfcf3750604271bd8a0497186");
+    $(".header-img-squre>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fww2.sinaimg.cn%2Fmw690%2F6d87b3degw1ethpx0ukb9j20g40m4tad.jpg&refer=http%3A%2F%2Fwww.sina.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646383697&t=e1568872c237a592d036941ff86bbc0b");
     $("#l-c p:nth-child(1)").text("桜井玲香");
     $("#l-c p:nth-child(2)").text("别名：Sakurai Reika");
     $("#l-c p:nth-child(3)").text("出生日期：1994年5月16日");
@@ -692,14 +692,14 @@ $("#s54").click(function(){
     $("#r-c p:nth-child(3)").text("血型：A型");
     $("#r-c p:nth-child(4)").text("经纪公司：乃木坂46合同会社（原）");
     $("#r-c p:nth-child(5)").text("特征：美丽 性感 唱功十分优秀");
-    $(".photo:nth-child(1)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp4.itc.cn%2Fq_70%2Fimages03%2F20200618%2Fc1837f69598847c0b639a864d7683974.jpeg&refer=http%3A%2F%2Fp4.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646383574&t=cc6b9ae376b5d0748ac73e879463f15d");
-    $(".photo:nth-child(2)>img").attr("src","https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0103%2Fd6dfd898j00qmbrna001pc000hs00pfc.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646383695&t=ad4669a8590037bdabe90070b006e519");
+    $(".photo:nth-child(1)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp4.itc.cn%2Fq_70%2Fimages03%2F20200618%2Fc1837f69598847c0b639a864d7683974.jpeg&refer=http%3A%2F%2Fp4.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646383574&t=cc6b9ae376b5d0748ac73e879463f15d");
+    $(".photo:nth-child(2)>img").attr("src", "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0103%2Fd6dfd898j00qmbrna001pc000hs00pfc.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646383695&t=ad4669a8590037bdabe90070b006e519");
 });
 //av女优
-$("#s55").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/1.早乙女露依-4.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/1.早乙女露依-1.jpg");
+$("#s55").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/1.早乙女露依-4.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/1.早乙女露依-1.jpg");
     $("#l-c p:nth-child(1)").text("早乙女ルイ(已隐退)");
     $("#l-c p:nth-child(2)").text("别名：早乙女露依/矢泽优步");
     $("#l-c p:nth-child(3)").text("出生日期：1988年6月26日");
@@ -713,13 +713,13 @@ $("#s55").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：D罩杯");
     $("#r-c p:nth-child(4)").text("类型：温柔可爱美丽");
     $("#r-c p:nth-child(5)").text("描述：超级温柔 可爱的岛国女优");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/1.早乙女露依-2.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/1.早乙女露依-3.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/1.早乙女露依-2.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/1.早乙女露依-3.jpg");
 });
-$("#s56").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/2.大桥未久-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/2.大桥未久-1.jpg");
+$("#s56").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/2.大桥未久-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/2.大桥未久-1.jpg");
     $("#l-c p:nth-child(1)").text("大橋未久(已隐退)");
     $("#l-c p:nth-child(2)").text("别名：おおはしみく/Ohashi Miku");
     $("#l-c p:nth-child(3)").text("出生日期：1987年12月24日");
@@ -733,13 +733,13 @@ $("#s56").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E杯");
     $("#r-c p:nth-child(4)").text("类型：美丽温柔性感");
     $("#r-c p:nth-child(5)").text("描述：独特的形象和超一般的雪肌美胸 长相甜美，青春靓丽 清纯可爱 美若天仙");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/2.大桥未久-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/2.大桥未久-4.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/2.大桥未久-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/2.大桥未久-4.png");
 });
-$("#s57").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/3.篠田ゆう-4.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/3.篠田ゆう-1.jpg");
+$("#s57").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/3.篠田ゆう-4.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/3.篠田ゆう-1.jpg");
     $("#l-c p:nth-child(1)").text("篠田ゆう");
     $("#l-c p:nth-child(2)").text("别名：しのだゆう/Shinoda Yu");
     $("#l-c p:nth-child(3)").text("出生日期：1991年7月21日");
@@ -753,13 +753,13 @@ $("#s57").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：F罩杯");
     $("#r-c p:nth-child(4)").text("类型：美丽性感胸大温柔");
     $("#r-c p:nth-child(5)").text("描述：暂无");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/3.篠田ゆう-2.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/3.篠田ゆう-3.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/3.篠田ゆう-2.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/3.篠田ゆう-3.png");
 });
-$("#s58").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/4.佐佐波绫-3.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/4.佐佐波绫-2.jpg");
+$("#s58").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/4.佐佐波绫-3.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/4.佐佐波绫-2.jpg");
     $("#l-c p:nth-child(1)").text("佐々波綾(已隐退)");
     $("#l-c p:nth-child(2)").text("别名：さざなみあや/Sasanami Aya/涼宮遙香");
     $("#l-c p:nth-child(3)").text("出生日期：1997年4月10日");
@@ -773,13 +773,13 @@ $("#s58").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：D杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级可爱温柔");
     $("#r-c p:nth-child(5)").text("描述：暂无");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/4.佐佐波绫-1.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/4.佐佐波绫-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/4.佐佐波绫-1.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/4.佐佐波绫-4.jpg");
 });
-$("#s59").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/5.唯川希-1.png");
-    $(".header-img-squre>img").attr("src","img/avjoyu/5.唯川希-2.jpg");
+$("#s59").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/5.唯川希-1.png");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/5.唯川希-2.jpg");
     $("#l-c p:nth-child(1)").text("唯川希(已隐退)");
     $("#l-c p:nth-child(2)").text("别名：ゆいかわのぞみ/Yuikawa Nozomi");
     $("#l-c p:nth-child(3)").text("出生日期：1994年2月23日");
@@ -793,13 +793,13 @@ $("#s59").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯美丽超级温柔");
     $("#r-c p:nth-child(5)").text("描述：暂无");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/5.唯川希-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/5.唯川希-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/5.唯川希-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/5.唯川希-4.jpg");
 });
-$("#s60").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/6.星宫一花-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/6.星宫一花-1.png");
+$("#s60").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/6.星宫一花-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/6.星宫一花-1.png");
     $("#l-c p:nth-child(1)").text("星宮一花");
     $("#l-c p:nth-child(2)").text("别名：ほしみやいちか / いっちゃん");
     $("#l-c p:nth-child(3)").text("出生日期：1998年6月28日");
@@ -813,13 +813,13 @@ $("#s60").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯性感超级温柔美丽");
     $("#r-c p:nth-child(5)").text("描述：身材极好 雪色白嫩的皮肤 是一位国色天香的岛国女。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/6.星宫一花-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/6.星宫一花-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/6.星宫一花-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/6.星宫一花-4.jpg");
 });
-$("#s61").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/7.最上优菜-2.PNG");
-    $(".header-img-squre>img").attr("src","img/avjoyu/7.最上优菜-4.PNG");
+$("#s61").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/7.最上优菜-2.PNG");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/7.最上优菜-4.PNG");
     $("#l-c p:nth-child(1)").text("最上ゆら");
     $("#l-c p:nth-child(2)").text("别名：もがみゆら(mogamiyura)/皆川ゆうな");
     $("#l-c p:nth-child(3)").text("出生日期：1994年3月6日");
@@ -833,13 +833,13 @@ $("#s61").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级温柔超级可爱超级美丽超级性感");
     $("#r-c p:nth-child(5)").text("描述：极具温柔气质，优雅，美乳、曲线诱人的美腿以及超清纯的长相。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/7.最上优菜-1.PNG");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/7.最上优菜-3.PNG");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/7.最上优菜-1.PNG");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/7.最上优菜-3.PNG");
 });
-$("#s62").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/8.橋本有菜-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/8.橋本有菜-1.jpg");
+$("#s62").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/8.橋本有菜-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/8.橋本有菜-1.jpg");
     $("#l-c p:nth-child(1)").text("橋本有菜");
     $("#l-c p:nth-child(2)").text("别名：はしもとありな/Arina Hashimoto");
     $("#l-c p:nth-child(3)").text("出生日期：1996年12月15日");
@@ -853,13 +853,13 @@ $("#s62").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C杯");
     $("#r-c p:nth-child(4)").text("类型：清纯性感超级可爱美丽");
     $("#r-c p:nth-child(5)").text("描述：个高长腿皮肤白净 拥有天使美声及苗条纤细身材 清纯 可爱 超级美少女。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/8.橋本有菜-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/8.橋本有菜-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/8.橋本有菜-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/8.橋本有菜-4.jpg");
 });
-$("#s63").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/9.天使萌-4.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/9.天使萌-1.jpg");
+$("#s63").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/9.天使萌-4.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/9.天使萌-1.jpg");
     $("#l-c p:nth-child(1)").text("天使もえ");
     $("#l-c p:nth-child(2)").text("别名：あまつかもえ/Moe Amatsuka");
     $("#l-c p:nth-child(3)").text("出生日期：1993年7月10日");
@@ -873,13 +873,13 @@ $("#s63").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：D罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯可爱美丽");
     $("#r-c p:nth-child(5)").text("描述：娇小身材，气质清新可爱，亲和力十足。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/9.天使萌-2.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/9.天使萌-3.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/9.天使萌-2.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/9.天使萌-3.jpg");
 });
-$("#s64").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/10.富田优衣-4.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/10.富田优衣-1.jpg");
+$("#s64").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/10.富田优衣-4.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/10.富田优衣-1.jpg");
     $("#l-c p:nth-child(1)").text("富田優衣");
     $("#l-c p:nth-child(2)").text("别名：とみたゆい/Tomita yui");
     $("#l-c p:nth-child(3)").text("出生日期：1997年11月30日");
@@ -893,13 +893,13 @@ $("#s64").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级可爱温柔");
     $("#r-c p:nth-child(5)").text("描述：亭亭玉立的岛国女 号称小莲实克蕾儿，无辜脸蛋惹人爱！。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/10.富田优衣-2.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/10.富田优衣-3.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/10.富田优衣-2.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/10.富田优衣-3.jpg");
 });
-$("#s65").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/11.七澤美亜-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/10.富田优衣-1.jpg");
+$("#s65").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/11.七澤美亜-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/10.富田优衣-1.jpg");
     $("#l-c p:nth-child(1)").text("七澤美亜(七沢みあ)");
     $("#l-c p:nth-child(2)").text("别名： ななさわみあ / みゃーちゃん/Nanasawa Mia");
     $("#l-c p:nth-child(3)").text("出生日期：1998年12月13日");
@@ -913,13 +913,13 @@ $("#s65").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级可爱温柔");
     $("#r-c p:nth-child(5)").text("描述：身高只有145CM，身材小巧玲珑，不过脸蛋却十分可爱，还被网友们称为“国民妹妹”。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/11.七澤美亜-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/11.七澤美亜-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/11.七澤美亜-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/11.七澤美亜-4.jpg");
 });
-$("#s66").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/12.弥生美月-2.png");
-    $(".header-img-squre>img").attr("src","img/avjoyu/12.弥生美月-1.jpg");
+$("#s66").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/12.弥生美月-2.png");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/12.弥生美月-1.jpg");
     $("#l-c p:nth-child(1)").text("弥生みづき");
     $("#l-c p:nth-child(2)").text("别名： やよいみづき / Yayoi Mizuki/みづき / Mizuki");
     $("#l-c p:nth-child(3)").text("出生日期：1998年12月6日");
@@ -933,13 +933,13 @@ $("#s66").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级可爱超级温柔");
     $("#r-c p:nth-child(5)").text("描述：微笑天使，治愈人心。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/12.弥生美月-3.png");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/12.弥生美月-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/12.弥生美月-3.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/12.弥生美月-4.jpg");
 });
-$("#s67").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/13.逢泽まりあ-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/13.逢泽まりあ-1.jpg");
+$("#s67").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/13.逢泽まりあ-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/13.逢泽まりあ-1.jpg");
     $("#l-c p:nth-child(1)").text("逢泽まりあ");
     $("#l-c p:nth-child(2)").text("别名： あいざわまりあ/Aizawa Maria/逢泽玛莉亚");
     $("#l-c p:nth-child(3)").text("出生日期：1994年5月14日");
@@ -953,13 +953,13 @@ $("#s67").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：F罩杯");
     $("#r-c p:nth-child(4)").text("类型：美丽丰满温柔贤惠");
     $("#r-c p:nth-child(5)").text("描述：漂亮,大胸,90后。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/13.逢泽まりあ-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/13.逢泽まりあ-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/13.逢泽まりあ-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/13.逢泽まりあ-4.jpg");
 });
-$("#s68").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/14.美咲佳奈-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/14.美咲佳奈-1.png");
+$("#s68").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/14.美咲佳奈-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/14.美咲佳奈-1.png");
     $("#l-c p:nth-child(1)").text("美咲かんな");
     $("#l-c p:nth-child(2)").text("别名： みさきかんな、Kanna Misaki");
     $("#l-c p:nth-child(3)").text("出生日期：1994年7月3日");
@@ -973,13 +973,13 @@ $("#s68").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E杯");
     $("#r-c p:nth-child(4)").text("类型：清纯美丽丰满超级温柔");
     $("#r-c p:nth-child(5)").text("描述：“拥有清澈笑容和耀眼气质”的美少女。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/14.美咲佳奈-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/14.美咲佳奈-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/14.美咲佳奈-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/14.美咲佳奈-4.jpg");
 });
-$("#s69").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/15.大浦真奈美-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/15.大浦真奈美-1.png");
+$("#s69").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/15.大浦真奈美-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/15.大浦真奈美-1.png");
     $("#l-c p:nth-child(1)").text("大浦真奈美");
     $("#l-c p:nth-child(2)").text("别名： おおうらまなみ/Oura Manami/Manami");
     $("#l-c p:nth-child(3)").text("出生日期：1997年4月9日");
@@ -993,13 +993,13 @@ $("#s69").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：F罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级温柔可爱美丽");
     $("#r-c p:nth-child(5)").text("描述：是一位眉目清秀的岛国女。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/15.大浦真奈美-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/15.大浦真奈美-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/15.大浦真奈美-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/15.大浦真奈美-4.jpg");
 });
-$("#s70").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/16.河奈亜依-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/16.河奈亜依-1.jpg");
+$("#s70").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/16.河奈亜依-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/16.河奈亜依-1.jpg");
     $("#l-c p:nth-child(1)").text("河奈亜依");
     $("#l-c p:nth-child(2)").text("别名： かわなあい / Kawana A/川合ちほ");
     $("#l-c p:nth-child(3)").text("出生日期：1998年3月18日");
@@ -1013,13 +1013,13 @@ $("#s70").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：超级可爱超级温柔笑容萝莉");
     $("#r-c p:nth-child(5)").text("描述：超级可爱的美少女萝莉。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/16.河奈亜依-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/16.河奈亜依-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/16.河奈亜依-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/16.河奈亜依-4.jpg");
 });
-$("#s71").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/17.明里つむぎ-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/17.明里つむぎ-1.jpg");
+$("#s71").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/17.明里つむぎ-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/17.明里つむぎ-1.jpg");
     $("#l-c p:nth-child(1)").text("明里つむぎ");
     $("#l-c p:nth-child(2)").text("别名： あかりつむぎ/Akari Tsumugi");
     $("#l-c p:nth-child(3)").text("出生日期：1998年3月31日");
@@ -1033,13 +1033,13 @@ $("#s71").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：B杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级美丽可爱温柔");
     $("#r-c p:nth-child(5)").text("描述：偶像级脸蛋!纤细美Body!超雪白美肌!。超级美少女。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/17.明里つむぎ-3.png");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/17.明里つむぎ-4.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/17.明里つむぎ-3.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/17.明里つむぎ-4.png");
 });
-$("#s72").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/18.三上優亜-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/18.三上優亜-1.jpg");
+$("#s72").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/18.三上優亜-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/18.三上優亜-1.jpg");
     $("#l-c p:nth-child(1)").text("三上優亜");
     $("#l-c p:nth-child(2)").text("别名： みかみゆあ/きとう ももな/鬼头桃菜/Mikami Yua");
     $("#l-c p:nth-child(3)").text("出生日期：1993年8月16日");
@@ -1053,13 +1053,13 @@ $("#s72").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯可爱温柔美丽");
     $("#r-c p:nth-child(5)").text("描述：无论从脸蛋、身材、人气都更胜一筹，一人占据了DMM排行榜的前四名。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/18.三上優亜-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/18.三上優亜-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/18.三上優亜-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/18.三上優亜-4.jpg");
 });
-$("#s73").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/19.初川南-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/19.初川南-1.jpg");
+$("#s73").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/19.初川南-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/19.初川南-1.jpg");
     $("#l-c p:nth-child(1)").text("初川南");
     $("#l-c p:nth-child(2)").text("别名： 初川みなみ/Minami Hatsukawa");
     $("#l-c p:nth-child(3)").text("出生日期：1995年1月19日");
@@ -1073,13 +1073,13 @@ $("#s73").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：D罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯美丽超级温柔性感");
     $("#r-c p:nth-child(5)").text("描述：可爱 美丽 温柔 性感 迷人。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/19.初川南-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/19.初川南-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/19.初川南-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/19.初川南-4.jpg");
 });
-$("#s74").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/20.希崎杰西卡-2.png");
-    $(".header-img-squre>img").attr("src","img/avjoyu/20.希崎杰西卡-1.jpg");
+$("#s74").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/20.希崎杰西卡-2.png");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/20.希崎杰西卡-1.jpg");
     $("#l-c p:nth-child(1)").text("希崎 ジェシカ");
     $("#l-c p:nth-child(2)").text("别名： きざき じぇしか/Kizaki jessica");
     $("#l-c p:nth-child(3)").text("出生日期：1989年6月10日");
@@ -1093,13 +1093,13 @@ $("#s74").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：D罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级性感超级美丽");
     $("#r-c p:nth-child(5)").text("描述：一名日本混血AV女优（有1/4血统为意大利人）青春、亮丽，活泼可爱，身材极好。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/20.希崎杰西卡-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/20.希崎杰西卡-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/20.希崎杰西卡-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/20.希崎杰西卡-4.jpg");
 });
-$("#s75").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/21.樱空桃-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/21.樱空桃-1.jpg");
+$("#s75").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/21.樱空桃-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/21.樱空桃-1.jpg");
     $("#l-c p:nth-child(1)").text("桜空もも");
     $("#l-c p:nth-child(2)").text("别名： さくらもも、Momo Sakura");
     $("#l-c p:nth-child(3)").text("出生日期：1996年12月03日");
@@ -1113,13 +1113,13 @@ $("#s75").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：G罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯可爱性感丰满温柔");
     $("#r-c p:nth-child(5)").text("描述：可爱的脸蛋，小蛮腰、白皮肤、桃子屁股、G罩杯大胸。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/21.樱空桃-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/21.樱空桃-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/21.樱空桃-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/21.樱空桃-4.jpg");
 });
-$("#s76").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/22.枫花恋-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/22.枫花恋-1.JPG");
+$("#s76").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/22.枫花恋-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/22.枫花恋-1.JPG");
     $("#l-c p:nth-child(1)").text("楓カレン");
     $("#l-c p:nth-child(2)").text("别名： Kaede Karen");
     $("#l-c p:nth-child(3)").text("出生日期：1999年8月25日");
@@ -1133,13 +1133,13 @@ $("#s76").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：D罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级性感超级美丽");
     $("#r-c p:nth-child(5)").text("描述：可不论是身材还是演技，枫花恋都是无可挑剔。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/22.枫花恋-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/22.枫花恋-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/22.枫花恋-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/22.枫花恋-4.jpg");
 });
-$("#s77").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/23.冬月枫-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/23.冬月枫-1.jpg");
+$("#s77").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/23.冬月枫-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/23.冬月枫-1.jpg");
     $("#l-c p:nth-child(1)").text("冬月かえで");
     $("#l-c p:nth-child(2)").text("别名：ふゆつきかえで、Kaede Fuyutsuki");
     $("#l-c p:nth-child(3)").text("出生日期：1988年9月14日");
@@ -1153,13 +1153,13 @@ $("#s77").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：超级性感超级美丽温柔");
     $("#r-c p:nth-child(5)").text("描述：美丽大气，看起来像富贵人家的小姐 身材窈窕，神态妩媚 清纯恬静，淑女气十足。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/23.冬月枫-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/23.冬月枫-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/23.冬月枫-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/23.冬月枫-4.jpg");
 });
-$("#s78").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/24.小宵虎南-2.gif");
-    $(".header-img-squre>img").attr("src","img/avjoyu/24.小宵虎南-1.jpeg");
+$("#s78").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/24.小宵虎南-2.gif");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/24.小宵虎南-1.jpeg");
     $("#l-c p:nth-child(1)").text("小宵こなん");
     $("#l-c p:nth-child(2)").text("别名：小宵虎南，Koyoi-Konan");
     $("#l-c p:nth-child(3)").text("出生日期：1999年4月1日");
@@ -1173,13 +1173,13 @@ $("#s78").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：H罩杯");
     $("#r-c p:nth-child(4)").text("类型：超级性感丰满美丽可爱");
     $("#r-c p:nth-child(5)").text("描述：丰满巨乳，脸蛋还十分精致完美，看起来非常养眼。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/24.小宵虎南-3.jpeg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/24.小宵虎南-4.jpeg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/24.小宵虎南-3.jpeg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/24.小宵虎南-4.jpeg");
 });
-$("#s79").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/25.七濑爱丽丝-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/25.七濑爱丽丝-1.jpg");
+$("#s79").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/25.七濑爱丽丝-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/25.七濑爱丽丝-1.jpg");
     $("#l-c p:nth-child(1)").text("七濑アリス");
     $("#l-c p:nth-child(2)").text("别名：Nanase Alice/七濑爱丽丝");
     $("#l-c p:nth-child(3)").text("出生日期：1997年3月30号");
@@ -1193,13 +1193,13 @@ $("#s79").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E罩杯");
     $("#r-c p:nth-child(4)").text("类型：超级可爱美丽");
     $("#r-c p:nth-child(5)").text("描述：长相精致动人，拥有偶像级的脸蛋，纤细有致的好身材，而且是难得的学习天才。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/25.七濑爱丽丝-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/25.七濑爱丽丝-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/25.七濑爱丽丝-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/25.七濑爱丽丝-4.jpg");
 });
-$("#s80").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/26.梓光莉-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/26.梓光莉-1.jpg");
+$("#s80").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/26.梓光莉-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/26.梓光莉-1.jpg");
     $("#l-c p:nth-child(1)").text("梓ヒカリ");
     $("#l-c p:nth-child(2)").text("别名：Hikari Azusa . 梓光莉");
     $("#l-c p:nth-child(3)").text("出生日期：1999年");
@@ -1213,13 +1213,13 @@ $("#s80").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：F罩杯");
     $("#r-c p:nth-child(4)").text("类型：温柔可爱");
     $("#r-c p:nth-child(5)").text("描述：如天使一般的美巨乳少女。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/26.梓光莉-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/26.梓光莉-4.jpeg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/26.梓光莉-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/26.梓光莉-4.jpeg");
 });
-$("#s81").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/27.星谷瞳-2.gif");
-    $(".header-img-squre>img").attr("src","img/avjoyu/27.星谷瞳-1.jpg");
+$("#s81").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/27.星谷瞳-2.gif");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/27.星谷瞳-1.jpg");
     $("#l-c p:nth-child(1)").text("星谷瞳");
     $("#l-c p:nth-child(2)").text("别名：依田真乃");
     $("#l-c p:nth-child(3)").text("出生日期：2001年");
@@ -1233,13 +1233,13 @@ $("#s81").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：A罩杯");
     $("#r-c p:nth-child(4)").text("类型：超级可爱性感美丽");
     $("#r-c p:nth-child(5)").text("描述：出众惊人的美貌，纤细苗条的好身材，微乳。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/27.星谷瞳-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/27.星谷瞳-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/27.星谷瞳-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/27.星谷瞳-4.jpg");
 });
-$("#s82").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/28.美雪艾莉丝-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/28.美雪艾莉丝-1.jpg");
+$("#s82").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/28.美雪艾莉丝-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/28.美雪艾莉丝-1.jpg");
     $("#l-c p:nth-child(1)").text("美雪ありす");
     $("#l-c p:nth-child(2)").text("别名：MIYUKI ARISU");
     $("#l-c p:nth-child(3)").text("出生日期：1987年4月25日");
@@ -1253,13 +1253,13 @@ $("#s82").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E罩杯");
     $("#r-c p:nth-child(4)").text("类型：超级性感超级美丽超级温柔");
     $("#r-c p:nth-child(5)").text("描述：超级性感 美白肌肤 修长苗条 身材极好 风骚 演技优秀。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/28.美雪艾莉丝-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/28.美雪艾莉丝-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/28.美雪艾莉丝-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/28.美雪艾莉丝-4.jpg");
 });
-$("#s83").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/29.桜木優希音-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/29.桜木優希音-1.jpg");
+$("#s83").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/29.桜木優希音-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/29.桜木優希音-1.jpg");
     $("#l-c p:nth-child(1)").text("桜木優希音");
     $("#l-c p:nth-child(2)").text("别名：さくらぎゆきね/相川みのり（舞ワイフ）");
     $("#l-c p:nth-child(3)").text("出生日期：1994年5月18日");
@@ -1273,13 +1273,13 @@ $("#s83").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：B罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级温柔美丽");
     $("#r-c p:nth-child(5)").text("描述：温柔美丽 白嫩肌肤的岛国女");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/29.桜木優希音-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/29.桜木優希音-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/29.桜木優希音-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/29.桜木優希音-4.jpg");
 });
-$("#s84").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/30.宇佐美舞-2.PNG");
-    $(".header-img-squre>img").attr("src","img/avjoyu/30.宇佐美舞-1.PNG");
+$("#s84").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/30.宇佐美舞-2.PNG");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/30.宇佐美舞-1.PNG");
     $("#l-c p:nth-child(1)").text("宇佐美まい");
     $("#l-c p:nth-child(2)").text("别名：Usami Mai");
     $("#l-c p:nth-child(3)").text("出生日期：1995年3月15日");
@@ -1293,13 +1293,13 @@ $("#s84").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯可爱美丽");
     $("#r-c p:nth-child(5)").text("描述：美人胚子 清纯 可爱");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/30.宇佐美舞-3.PNG");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/30.宇佐美舞-4.PNG");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/30.宇佐美舞-3.PNG");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/30.宇佐美舞-4.PNG");
 });
-$("#s85").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/31.友田彩也香-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/31.友田彩也香-1.jpg");
+$("#s85").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/31.友田彩也香-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/31.友田彩也香-1.jpg");
     $("#l-c p:nth-child(1)").text("ともだ あやか/TOMODA AYAKA");
     $("#l-c p:nth-child(2)").text("别名：友田彩也香");
     $("#l-c p:nth-child(3)").text("出生日期：1988年9月14日");
@@ -1313,13 +1313,13 @@ $("#s85").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E 杯");
     $("#r-c p:nth-child(4)").text("类型：清纯超级可爱超级美丽性感");
     $("#r-c p:nth-child(5)").text("描述：SOD国民偶像团体人气第一名。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/31.友田彩也香-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/31.友田彩也香-4.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/31.友田彩也香-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/31.友田彩也香-4.png");
 });
-$("#s86").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/32.野村萌香-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/32.野村萌香-1.jpg");
+$("#s86").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/32.野村萌香-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/32.野村萌香-1.jpg");
     $("#l-c p:nth-child(1)").text("野村萌香");
     $("#l-c p:nth-child(2)").text("别名：生田葵、Moeka Nomura、のむらもえか");
     $("#l-c p:nth-child(3)").text("出生日期：1989年3月2日");
@@ -1333,13 +1333,13 @@ $("#s86").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯性感美丽");
     $("#r-c p:nth-child(5)").text("描述：");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/32.野村萌香-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/32.野村萌香-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/32.野村萌香-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/32.野村萌香-4.jpg");
 });
-$("#s87").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/33.泷泽萝拉-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/33.泷泽萝拉-1.jpg");
+$("#s87").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/33.泷泽萝拉-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/33.泷泽萝拉-1.jpg");
     $("#l-c p:nth-child(1)").text("泷泽萝拉");
     $("#l-c p:nth-child(2)").text("别名：水咲ローラ，Takizawa Rola, Misaki Rola");
     $("#l-c p:nth-child(3)").text("出生日期：1992年6月");
@@ -1353,13 +1353,13 @@ $("#s87").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：33A");
     $("#r-c p:nth-child(4)").text("类型：清纯可爱美丽性感");
     $("#r-c p:nth-child(5)").text("描述：日本和俄罗斯混血 有日本“国宝级美女”之称。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/33.泷泽萝拉-3.png");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/33.泷泽萝拉-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/33.泷泽萝拉-3.png");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/33.泷泽萝拉-4.jpg");
 });
-$("#s88").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/34.板野有纪-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/34.板野有纪-1.jpg");
+$("#s88").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/34.板野有纪-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/34.板野有纪-1.jpg");
     $("#l-c p:nth-child(1)").text("板野有紀");
     $("#l-c p:nth-child(2)").text("别名：ゆっち/(Itano Yuki)/秋山雫、山村莉奈");
     $("#l-c p:nth-child(3)").text("出生日期：1992年6月14日");
@@ -1373,13 +1373,13 @@ $("#s88").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯可爱性感");
     $("#r-c p:nth-child(5)").text("描述：在av中通常扮演着娇小纤细的萝莉角色 清纯 可爱。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/34.板野有纪-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/34.板野有纪-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/34.板野有纪-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/34.板野有纪-4.jpg");
 });
-$("#s89").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/35.辻本杏-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/35.辻本杏-1.PNG");
+$("#s89").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/35.辻本杏-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/35.辻本杏-1.PNG");
     $("#l-c p:nth-child(1)").text("辻本杏");
     $("#l-c p:nth-child(2)").text("别名：つじもとあん/An Tsujimoto");
     $("#l-c p:nth-child(3)").text("出生日期：1993年12月13日");
@@ -1393,13 +1393,13 @@ $("#s89").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：性感美丽温柔");
     $("#r-c p:nth-child(5)").text("描述：在av中通常扮演着娇小纤细的萝莉角色 清纯 可爱。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/35.辻本杏-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/35.辻本杏-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/35.辻本杏-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/35.辻本杏-4.jpg");
 });
-$("#s90").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/36.饭冈佳奈子-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/36.饭冈佳奈子-1.jpg");
+$("#s90").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/36.饭冈佳奈子-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/36.饭冈佳奈子-1.jpg");
     $("#l-c p:nth-child(1)").text("飯岡かなこ");
     $("#l-c p:nth-child(2)").text("别名：いいおか かなこ/藤原辽子/森沢かな");
     $("#l-c p:nth-child(3)").text("出生日期：1992年5月9日");
@@ -1413,13 +1413,13 @@ $("#s90").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：性感美丽温柔");
     $("#r-c p:nth-child(5)").text("描述：在av中通常扮演着娇小纤细的萝莉角色 清纯 可爱。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/36.饭冈佳奈子-3.jpeg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/36.饭冈佳奈子-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/36.饭冈佳奈子-3.jpeg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/36.饭冈佳奈子-4.jpg");
 });
-$("#s91").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/37.有村千佳-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/37.有村千佳-1.jpg");
+$("#s91").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/37.有村千佳-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/37.有村千佳-1.jpg");
     $("#l-c p:nth-child(1)").text("有村千佳");
     $("#l-c p:nth-child(2)").text("别名：ありむら ちか/Chika Arimura");
     $("#l-c p:nth-child(3)").text("出生日期：1990年4月15日");
@@ -1433,13 +1433,13 @@ $("#s91").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
     $("#r-c p:nth-child(4)").text("类型：超级性感超级美丽超级温柔");
     $("#r-c p:nth-child(5)").text("描述：身材极好，风骚。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/37.有村千佳-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/37.有村千佳-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/37.有村千佳-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/37.有村千佳-4.jpg");
 });
-$("#s92").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/38.大槻响-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/38.大槻响-1.jpg");
+$("#s92").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/38.大槻响-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/38.大槻响-1.jpg");
     $("#l-c p:nth-child(1)").text("大槻ひびき");
     $("#l-c p:nth-child(2)").text("别名：おおつき ひびき/绵贯沙织、浜田絵梨/HibikiOtsuki、HIBIKI");
     $("#l-c p:nth-child(3)").text("出生日期：1988年2月21日");
@@ -1453,13 +1453,13 @@ $("#s92").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯性感美丽可爱");
     $("#r-c p:nth-child(5)").text("描述：美丽 风骚。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/38.大槻响-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/38.大槻响-4.jpeg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/38.大槻响-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/38.大槻响-4.jpeg");
 });
-$("#s93").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/39.藤江史帆-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/39.藤江史帆-1.jpg");
+$("#s93").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/39.藤江史帆-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/39.藤江史帆-1.jpg");
     $("#l-c p:nth-child(1)").text("藤江史帆");
     $("#l-c p:nth-child(2)").text("别名：暂无");
     $("#l-c p:nth-child(3)").text("出生日期：1996年7月17日");
@@ -1473,13 +1473,13 @@ $("#s93").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：F罩杯");
     $("#r-c p:nth-child(4)").text("类型：清纯可爱美丽温柔");
     $("#r-c p:nth-child(5)").text("描述：清新美少女。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/39.藤江史帆-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/39.藤江史帆-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/39.藤江史帆-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/39.藤江史帆-4.jpg");
 });
-$("#s94").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/40.木下日葵-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/40.木下日葵-1.jpg");
+$("#s94").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/40.木下日葵-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/40.木下日葵-1.jpg");
     $("#l-c p:nth-child(1)").text("木下ひまり");
     $("#l-c p:nth-child(2)").text("别名：(木下日葵，Kinoshita-Himari)");
     $("#l-c p:nth-child(3)").text("出生日期：1996年5月20日");
@@ -1493,13 +1493,13 @@ $("#s94").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：D罩杯");
     $("#r-c p:nth-child(4)").text("类型：一对水汪汪大眼睛，有169公分傲人长腿。身材极好");
     $("#r-c p:nth-child(5)").text("描述：超级性感超级美丽。");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/40.木下日葵-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/40.木下日葵-4.png");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/40.木下日葵-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/40.木下日葵-4.png");
 });
-$("#s95").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/41.杏树纱奈-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/41.杏树纱奈-1.jpg");
+$("#s95").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/41.杏树纱奈-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/41.杏树纱奈-1.jpg");
     $("#l-c p:nth-child(1)").text("杏樹紗奈");
     $("#l-c p:nth-child(2)").text("别名：あんじゅさな/Anju Sana/胡桃雏");
     $("#l-c p:nth-child(3)").text("出生日期：1989年1月14日");
@@ -1513,13 +1513,13 @@ $("#s95").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E杯");
     $("#r-c p:nth-child(4)").text("类型：超级可爱，偶像级的脸蛋");
     $("#r-c p:nth-child(5)").text("描述：超级可爱美丽温柔");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/41.杏树纱奈-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/41.杏树纱奈-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/41.杏树纱奈-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/41.杏树纱奈-4.jpg");
 });
-$("#s96").click(function(){
-    $(".modol").css({display:'block',height:'86%'});
-    $(".header-img>img").attr("src","img/avjoyu/42.爱沢花梨-2.jpg");
-    $(".header-img-squre>img").attr("src","img/avjoyu/42.爱沢花梨-1.png");
+$("#s96").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/42.爱沢花梨-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/42.爱沢花梨-1.png");
     $("#l-c p:nth-child(1)").text("杏樹紗奈");
     $("#l-c p:nth-child(2)").text("别名：あんじゅさな/Anju Sana/胡桃雏");
     $("#l-c p:nth-child(3)").text("出生日期：1989年1月14日");
@@ -1533,9 +1533,169 @@ $("#s96").click(function(){
     $("#r-c p:nth-child(3)").text("罩杯：E杯");
     $("#r-c p:nth-child(4)").text("类型：超级可爱，偶像级的脸蛋");
     $("#r-c p:nth-child(5)").text("描述：超级可爱美丽温柔");
-    $(".photo:nth-child(1)>img").attr("src","img/avjoyu/42.爱沢花梨-3.jpg");
-    $(".photo:nth-child(2)>img").attr("src","img/avjoyu/42.爱沢花梨-4.jpg");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/42.爱沢花梨-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/42.爱沢花梨-4.jpg");
 });
-$("#close").click(function(){
-   $(".modol").css({height:'0'});
-}); 
+$("#s97").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/43.市原里美-2.png");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/43.市原里美-1.jpg");
+    $("#l-c p:nth-child(1)").text("市原さとみ");
+    $("#l-c p:nth-child(2)").text("别名：鹤田沙织/天然むすめ/Satomi Ichihara");
+    $("#l-c p:nth-child(3)").text("出生日期：1992年7月20日");
+    $("#l-c p:nth-child(4)").text("身高：157cm");
+    $("#l-c p:nth-child(5)").text("星座：双子座");
+    $("#l-c p:nth-child(6)").text("出生地：日本神奈川县");
+    $("#l-c p:nth-child(7)").text("血型：暂无");
+    $("#l-c p:nth-child(8)").text("经纪公司：暂无");
+    $("#r-c p:nth-child(1)").text("兴趣：暂无");
+    $("#r-c p:nth-child(2)").text("三围：B80-W59-H82");
+    $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
+    $("#r-c p:nth-child(4)").text("类型：美丽温柔性感");
+    $("#r-c p:nth-child(5)").text("描述：超级可爱美丽温柔");
+    $(".photo:nth-child(1)>img").attr("src", "");
+    $(".photo:nth-child(2)>img").attr("src", "");
+});
+$("#s98").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/44.佐佐木明希-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/44.佐佐木明希-1.jpg");
+    $("#l-c p:nth-child(1)").text("佐々木あき");
+    $("#l-c p:nth-child(2)").text("别名：ささきあき/Aki Sasaki");
+    $("#l-c p:nth-child(3)").text("出生日期：1996年7月17日");
+    $("#l-c p:nth-child(4)").text("身高：166cm");
+    $("#l-c p:nth-child(5)").text("星座：摩羯座");
+    $("#l-c p:nth-child(6)").text("出生地：日本埼玉县");
+    $("#l-c p:nth-child(7)").text("血型：暂无");
+    $("#l-c p:nth-child(8)").text("经纪公司：SODクリエイト公司");
+    $("#r-c p:nth-child(1)").text("兴趣：料理、看电影");
+    $("#r-c p:nth-child(2)").text("三围：B82-W58-H86");
+    $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
+    $("#r-c p:nth-child(4)").text("类型：性感美丽温柔丰满");
+    $("#r-c p:nth-child(5)").text("描述：脸蛋漂亮，皮肤白皙紧致，浑身保养得堪称完美，容颜依旧秒杀其他熟女系的女优。胸大诱人。");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/44.佐佐木明希-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/44.佐佐木明希-4.jpg");
+});
+$("#s99").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/45.阿部刊菜-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/45.阿部刊菜-1.jpg");
+    $("#l-c p:nth-child(1)").text("阿部栞菜");
+    $("#l-c p:nth-child(2)").text("别名：もちづきかんな/Kanna Abe/宇野栞菜");
+    $("#l-c p:nth-child(3)").text("出生日期：1985年7月16日");
+    $("#l-c p:nth-child(4)").text("身高：157cm");
+    $("#l-c p:nth-child(5)").text("星座：巨蟹座");
+    $("#l-c p:nth-child(6)").text("出生地：日本广岛县");
+    $("#l-c p:nth-child(7)").text("血型：B型");
+    $("#l-c p:nth-child(8)").text("经纪公司：未知");
+    $("#r-c p:nth-child(1)").text("兴趣：未知");
+    $("#r-c p:nth-child(2)").text("三围：B80、W59、H82cm");
+    $("#r-c p:nth-child(3)").text("罩杯：C罩杯");
+    $("#r-c p:nth-child(4)").text("类型：性感温柔美丽");
+    $("#r-c p:nth-child(5)").text("描述：身材极好，美丽如花。虽然年龄大，但气质仍然年轻。");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/45.阿部刊菜-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/45.阿部刊菜-4.jpg");
+});
+$("#s100").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/46.宇都宫紫苑-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/46.宇都宫紫苑-1.jpg");
+    $("#l-c p:nth-child(1)").text("宇都宫紫苑");
+    $("#l-c p:nth-child(2)").text("别名：宇都宫しをん/Utsunomiya Shion");
+    $("#l-c p:nth-child(3)").text("出生日期：1994年3月1日");
+    $("#l-c p:nth-child(4)").text("身高：161 cm");
+    $("#l-c p:nth-child(5)").text("星座：双鱼座");
+    $("#l-c p:nth-child(6)").text("出生地：日本京都府");
+    $("#l-c p:nth-child(7)").text("血型：未知");
+    $("#l-c p:nth-child(8)").text("经纪公司：未知");
+    $("#r-c p:nth-child(1)").text("兴趣：三文鱼，寿司，拉面");
+    $("#r-c p:nth-child(2)").text("三围：B105 (J罩杯) / W58 / H89 / S");
+    $("#r-c p:nth-child(3)").text("罩杯：J罩杯");
+    $("#r-c p:nth-child(4)").text("类型：性感美丽丰满温柔");
+    $("#r-c p:nth-child(5)").text("描述：以身材的黄金比例备受瞩目 性感 丰满 胸大 美丽。");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/46.宇都宫紫苑-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/46.宇都宫紫苑-4.jpg");
+});
+$("#s101").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/47.彩美旬果-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/47.彩美旬果-1.jpg");
+    $("#l-c p:nth-child(1)").text("彩美旬果");
+    $("#l-c p:nth-child(2)").text("别名：あやみ旬果/あやみ旬果/Ayami Shunka");
+    $("#l-c p:nth-child(3)").text("出生日期：1993年8月15日");
+    $("#l-c p:nth-child(4)").text("身高：154cm");
+    $("#l-c p:nth-child(5)").text("星座：狮子座");
+    $("#l-c p:nth-child(6)").text("出生地：日本东京都");
+    $("#l-c p:nth-child(7)").text("血型：未知");
+    $("#l-c p:nth-child(8)").text("经纪公司：未知");
+    $("#r-c p:nth-child(1)").text("兴趣：音楽鉴赏、看萌系动画，咖啡店巡游");
+    $("#r-c p:nth-child(2)").text("三围：B85cm W58cm H83cm");
+    $("#r-c p:nth-child(3)").text("罩杯：D罩杯");
+    $("#r-c p:nth-child(4)").text("类型：超级性感美丽清纯");
+    $("#r-c p:nth-child(5)").text("描述：长相萝莉五官精致，身材也前凸后翘非常的惹火。清纯 性感 美丽 可爱");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/47.彩美旬果-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/47.彩美旬果-4.jpg");
+});
+$("#s102").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/47.神纳花.jpg");
+    $("#l-c p:nth-child(1)").text("神纳花");
+    $("#l-c p:nth-child(2)").text("别名：かんのしずか,冴木 真美子,/神纳花/かのはな/");
+    $("#l-c p:nth-child(3)").text("出生日期：1987年11月13日");
+    $("#l-c p:nth-child(4)").text("身高：160cm");
+    $("#l-c p:nth-child(5)").text("星座：天蝎座");
+    $("#l-c p:nth-child(6)").text("出生地：日本东京都");
+    $("#l-c p:nth-child(7)").text("血型：未知");
+    $("#l-c p:nth-child(8)").text("经纪公司：アトラクティブ");
+    $("#r-c p:nth-child(1)").text("兴趣：料理、逛街购物");
+    $("#r-c p:nth-child(2)").text("三围：B84-W62-H92CM");
+    $("#r-c p:nth-child(3)").text("罩杯：C杯");
+    $("#r-c p:nth-child(4)").text("类型：性感美丽");
+    $("#r-c p:nth-child(5)").text("描述：美丽 性感 十分努力的女优。");
+    $(".photo:nth-child(1)>img").attr("src", "");
+    $(".photo:nth-child(2)>img").attr("src", "");
+});
+$("#s103").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/48.清水爱理-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/48.清水爱理-1.jpg");
+    $("#l-c p:nth-child(1)").text("清水愛理");
+    $("#l-c p:nth-child(2)").text("别名：清水あいり/しみず あいり");
+    $("#l-c p:nth-child(3)").text("出生日期：1992年12月17日");
+    $("#l-c p:nth-child(4)").text("身高：156cm");
+    $("#l-c p:nth-child(5)").text("星座：射手座");
+    $("#l-c p:nth-child(6)").text("出生地：日本大阪府枚方市");
+    $("#l-c p:nth-child(7)").text("血型：未知");
+    $("#l-c p:nth-child(8)").text("经纪公司：ファンタスターへ");
+    $("#r-c p:nth-child(1)").text("兴趣：听音乐、舞蹈、排球、空手道");
+    $("#r-c p:nth-child(2)").text("三围：B88-W58-H85");
+    $("#r-c p:nth-child(3)").text("罩杯：H杯");
+    $("#r-c p:nth-child(4)").text("类型：超级性感超级美丽丰满");
+    $("#r-c p:nth-child(5)").text("描述：美丽 可爱 性感 胸大。");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/48.清水爱理-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/48.清水爱理-4.jpg");
+});
+$("#s104").click(function() {
+    $(".modol").css({ display: 'block', height: '86%' });
+    $(".header-img>img").attr("src", "img/avjoyu/49.桃乃木香奈-2.jpg");
+    $(".header-img-squre>img").attr("src", "img/avjoyu/49.桃乃木香奈-1.jpg");
+    $("#l-c p:nth-child(1)").text("桃乃木かな");
+    $("#l-c p:nth-child(2)").text("别名：Kana Momonogi/もものぎかな");
+    $("#l-c p:nth-child(3)").text("出生日期：1996年12月24日");
+    $("#l-c p:nth-child(4)").text("身高：153cm");
+    $("#l-c p:nth-child(5)").text("星座：摩羯座");
+    $("#l-c p:nth-child(6)").text("出生地：日本埼玉");
+    $("#l-c p:nth-child(7)").text("血型：未知");
+    $("#l-c p:nth-child(8)").text("经纪公司：未知");
+    $("#r-c p:nth-child(1)").text("兴趣：卡拉OK、唱歌、看H片");
+    $("#r-c p:nth-child(2)").text("三围：B80(F)　W54　H80");
+    $("#r-c p:nth-child(3)").text("罩杯：F罩杯");
+    $("#r-c p:nth-child(4)").text("类型：清纯超级性感超级美丽可爱");
+    $("#r-c p:nth-child(5)").text("描述：美丽 可爱 性感。");
+    $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/49.桃乃木香奈-3.jpg");
+    $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/49.桃乃木香奈-4.jpg");
+});
+$("#close").click(function() {
+    $(".modol").css({ height: '0' });
+});
