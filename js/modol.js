@@ -1858,7 +1858,7 @@ $("#s112").click(function() {
 });
 $("#s113").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
-    $(".header-img>img").attr("src", "img/avjoyu/58.仓多真央-2.png");
+    $(".header-img>img").attr("src", "img/avjoyu/58.仓多真央-2.PNG");
     $(".header-img-squre>img").attr("src", "img/avjoyu/58.仓多真央-1.jpg");
     $("#l-c p:nth-child(1)").text("倉多まお");
     $("#l-c p:nth-child(2)").text("别名：くらたまお、Kurata Mao/仓多真央");
