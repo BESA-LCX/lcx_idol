@@ -756,7 +756,7 @@ $("#s57").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/3.篠田ゆう-2.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/3.篠田ゆう-3.png");
 });
-$("#s58").click(function() {
+$("#s58,#s115").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/4.佐佐波绫-3.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/4.佐佐波绫-2.jpg");
@@ -796,7 +796,7 @@ $("#s59").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/5.唯川希-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/5.唯川希-4.jpg");
 });
-$("#s60").click(function() {
+$("#s60,#s116").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/6.星宫一花-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/6.星宫一花-1.png");
@@ -816,7 +816,7 @@ $("#s60").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/6.星宫一花-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/6.星宫一花-4.jpg");
 });
-$("#s61").click(function() {
+$("#s61,#s117").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/7.最上优菜-2.PNG");
     $(".header-img-squre>img").attr("src", "img/avjoyu/7.最上优菜-4.PNG");
@@ -836,7 +836,7 @@ $("#s61").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/7.最上优菜-1.PNG");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/7.最上优菜-3.PNG");
 });
-$("#s62").click(function() {
+$("#s62,#s118").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/8.橋本有菜-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/8.橋本有菜-1.jpg");
@@ -876,7 +876,7 @@ $("#s63").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/9.天使萌-2.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/9.天使萌-3.jpg");
 });
-$("#s64").click(function() {
+$("#s64,#s119").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/10.富田优衣-4.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/10.富田优衣-1.jpg");
@@ -916,7 +916,7 @@ $("#s65").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/11.七澤美亜-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/11.七澤美亜-4.jpg");
 });
-$("#s66").click(function() {
+$("#s66,#s120").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/12.弥生美月-2.png");
     $(".header-img-squre>img").attr("src", "img/avjoyu/12.弥生美月-1.jpg");
@@ -936,7 +936,7 @@ $("#s66").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/12.弥生美月-3.png");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/12.弥生美月-4.jpg");
 });
-$("#s67").click(function() {
+$("#s67,#s121").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/13.逢泽まりあ-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/13.逢泽まりあ-1.jpg");
@@ -956,7 +956,7 @@ $("#s67").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/13.逢泽まりあ-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/13.逢泽まりあ-4.jpg");
 });
-$("#s68").click(function() {
+$("#s68,#s122").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/14.美咲佳奈-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/14.美咲佳奈-1.png");
@@ -996,7 +996,7 @@ $("#s69").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/15.大浦真奈美-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/15.大浦真奈美-4.jpg");
 });
-$("#s70").click(function() {
+$("#s70,#s123").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/16.河奈亜依-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/16.河奈亜依-1.jpg");
@@ -1096,7 +1096,7 @@ $("#s74").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/20.希崎杰西卡-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/20.希崎杰西卡-4.jpg");
 });
-$("#s75").click(function() {
+$("#s75,#s124").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/21.樱空桃-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/21.樱空桃-1.jpg");
@@ -1156,7 +1156,7 @@ $("#s77").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/23.冬月枫-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/23.冬月枫-4.jpg");
 });
-$("#s78").click(function() {
+$("#s78,#s125").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/24.小宵虎南-2.gif");
     $(".header-img-squre>img").attr("src", "img/avjoyu/24.小宵虎南-1.jpeg");
@@ -1176,7 +1176,7 @@ $("#s78").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/24.小宵虎南-3.jpeg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/24.小宵虎南-4.jpeg");
 });
-$("#s79").click(function() {
+$("#s79,#s126").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/25.七濑爱丽丝-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/25.七濑爱丽丝-1.jpg");
@@ -1196,7 +1196,7 @@ $("#s79").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/25.七濑爱丽丝-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/25.七濑爱丽丝-4.jpg");
 });
-$("#s80").click(function() {
+$("#s80,#s127").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/26.梓光莉-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/26.梓光莉-1.jpg");
@@ -1216,7 +1216,7 @@ $("#s80").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/26.梓光莉-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/26.梓光莉-4.jpeg");
 });
-$("#s81").click(function() {
+$("#s81,#s128").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/27.星谷瞳-2.gif");
     $(".header-img-squre>img").attr("src", "img/avjoyu/27.星谷瞳-1.jpg");
@@ -1396,7 +1396,7 @@ $("#s89").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/35.辻本杏-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/35.辻本杏-4.jpg");
 });
-$("#s90").click(function() {
+$("#s90,#s129").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/36.饭冈佳奈子-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/36.饭冈佳奈子-1.jpg");
@@ -1476,7 +1476,7 @@ $("#s93").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/39.藤江史帆-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/39.藤江史帆-4.jpg");
 });
-$("#s94").click(function() {
+$("#s94,#s130").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/40.木下日葵-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/40.木下日葵-1.jpg");
@@ -1576,7 +1576,7 @@ $("#s98").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/44.佐佐木明希-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/44.佐佐木明希-4.jpg");
 });
-$("#s99").click(function() {
+$("#s99,#s132").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/45.阿部刊菜-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/45.阿部刊菜-1.jpg");
@@ -1696,7 +1696,7 @@ $("#s104").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/49.桃乃木香奈-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/49.桃乃木香奈-4.jpg");
 });
-$("#s105").click(function() {
+$("#s105,#s133").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/50.雪白柑菜-2.jpg");
     $(".header-img-squre>img").attr("src", "img/avjoyu/50.雪白柑菜-1.jpg");
@@ -1736,7 +1736,7 @@ $("#s106").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/51.纱纱原百合-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/51.纱纱原百合-4.jpg");
 });
-$("#s107").click(function() {
+$("#s107,#s134").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/52.星川-2.PNG");
     $(".header-img-squre>img").attr("src", "img/avjoyu/52.星川-1.PNG");
@@ -1836,7 +1836,7 @@ $("#s111").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/56.波多野结衣-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/56.波多野结衣-4.jpg");
 });
-$("#s112").click(function() {
+$("#s112,#s135").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/57.花咲一杏-2.png");
     $(".header-img-squre>img").attr("src", "img/avjoyu/57.花咲一杏-1.jpg");
@@ -1856,7 +1856,7 @@ $("#s112").click(function() {
     $(".photo:nth-child(1)>img").attr("src", "img/avjoyu/57.花咲一杏-3.jpg");
     $(".photo:nth-child(2)>img").attr("src", "img/avjoyu/57.花咲一杏-4.jpg");
 });
-$("#s113").click(function() {
+$("#s113,#s131").click(function() {
     $(".modol").css({ display: 'block', height: '86%' });
     $(".header-img>img").attr("src", "img/avjoyu/58.仓多真央-2.PNG");
     $(".header-img-squre>img").attr("src", "img/avjoyu/58.仓多真央-1.jpg");
